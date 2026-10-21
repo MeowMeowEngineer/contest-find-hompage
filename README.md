@@ -2,7 +2,7 @@
 
 청소년부터 어르신까지 참가할 수 있는 공모전·대회·논문상·장학금의 마감일과 참가 자격을 모은 정적 사이트입니다. 생년월일·신분·거주 지역·국적(학생이면 학적·소속 대학)을 넣으면 공모전마다 참가 가능, 조건부, 불가를 이유와 함께 보여 주고, 공식 페이지로 바로 연결합니다.
 
-- 미리보기 주소: https://gongmo-radar.vercel.app (Vercel 프로젝트를 만든 뒤 열립니다)
+- 미리보기 주소: https://gongmo-radar.vercel.app (지금은 모든 페이지 noindex)
 - 작업 규칙: [`CLAUDE.md`](CLAUDE.md), 데이터 표준: [`docs/data_standard.md`](docs/data_standard.md)
 
 ## 구조
@@ -29,10 +29,9 @@ python3 -m http.server 8851 --directory public     # http://127.0.0.1:8851
 
 Python 3.11 이상, Node 22 이상(빌드에도 필요). 외부 패키지는 쓰지 않습니다.
 
-## Vercel 연결 (처음 한 번)
+## 배포 (Vercel)
 
-1. https://vercel.com/new 에서 GitHub 저장소 `contest-find-hompage`를 Import 합니다.
-2. Project Name을 `gongmo-radar`로 바꿉니다. 이미 쓰이는 이름이면 `grad-contest-radar`로 합니다. 이 이름이 주소(`<이름>.vercel.app`)가 됩니다.
-3. Framework Preset은 `Other`, Build Command는 비우고, Output Directory는 `public`으로 둡니다(`vercel.json`에도 적혀 있습니다).
-4. Deploy를 누릅니다. 그 뒤로는 `main`에 push할 때마다 자동으로 배포됩니다.
-5. 프로젝트 이름을 다르게 정했다면 `site.json`의 `site_url`을 그 주소로 바꾸고 다시 빌드해 push합니다.
+- Vercel 계정 `jangstar-5887`, 프로젝트 `contest-find-hompage`. GitHub `main`에 push하면 `public/`이 그대로 배포됩니다(빌드 명령 없음, 설정은 `vercel.json`).
+- 주소: 프로젝트 Settings → Domains에 `gongmo-radar.vercel.app`을 추가해 씁니다(2026-10-21). `site.json`의 `site_url`과 같아야 합니다.
+- `contest-find-hompage-…-jangstar-5887.vercel.app` 같은 배포별 주소는 Vercel에 로그인한 사람만 열립니다. 남에게는 `gongmo-radar.vercel.app`을 보냅니다.
+- 공개 전환 절차는 [`CLAUDE.md`](CLAUDE.md) 7절에 있습니다.
