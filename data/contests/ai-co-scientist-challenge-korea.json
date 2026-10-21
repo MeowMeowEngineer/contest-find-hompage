@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "세부 참가 자격은 공고문에서 확인해야 합니다"
+    ],
+    "needs": [
+      "연구 수행 팀 구성"
+    ]
+  },
+  "eligibility": "연구 수행 팀 (대학 연구실 참가 사례 있음)",
+  "fields": [
+    "AI·데이터",
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "AI Co-Scientist Challenge Korea (과학기술 AI 활용·에이전트 개발 경진대회)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 대회 공지 전. 2026년 12월 공고, 2027년 1월 말 마감 예상(전년도 기준 추정)",
+  "organizer": "과학기술정보통신부 (한국연구재단 주관)",
+  "prize": "총 1,550만원, 상장 6점",
+  "sourceUrl": "https://thinkyou.co.kr/contest/60765/",
+  "status": "모집예정",
+  "summary": "상용 AI로 얻은 과학기술 연구 성과를 겨루는 트랙과 AI 연구보조 에이전트를 개발하는 트랙 중 하나를 골라 결과물을 낸다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "12월 초 접수 시작, 1월 말 마감 (2025-12-03~2026-01-31)",
+  "typicalMonths": [
+    1
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,42 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "fullTime": true,
+    "uni": "국내",
+    "needs": [
+      "온디바이스·엣지 AI 등 지정 분야의 우수 논문"
+    ]
+  },
+  "eligibility": "국내 대학 전일제 석·박사 재학생",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW",
+    "통신·네트워크"
+  ],
+  "gradOk": true,
+  "name": "Qualcomm Innovation Fellowship Korea (QIFK)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년 회차는 심사 중(11월 최종 선정). 2027년 8월 중순 마감 예상(전년도 기준 추정)",
+  "organizer": "퀄컴",
+  "prize": "최대 15팀, 팀당 장학금 400만원 (학교로 지급)",
+  "sourceUrl": "https://cse.snu.ac.kr/community/notice/25242",
+  "status": "다음 회차 대기",
+  "summary": "온디바이스·엣지 AI, 자율주행, 피지컬 AI, 에이전틱 AI 분야에서 낸 우수 논문을 제출한다. 서면 심사로 최대 30팀, 최종 심사로 최대 15팀을 고른다.",
+  "type": "펠로우십·장학",
+  "typicalDeadline": "여름 공고, 8월 중순 논문 제출 마감, 11월 최종 선정",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-south-korea",
+  "verifiedAt": "2026-10-21"
+}

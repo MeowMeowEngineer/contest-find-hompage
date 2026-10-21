@@ -1,0 +1,43 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "uni": "국내",
+    "needs": [
+      "팀 참가",
+      "약 6주 동안 알고리즘·코드 개발"
+    ]
+  },
+  "eligibility": "국내 대학 학부생·대학원생 팀",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW",
+    "반도체·회로"
+  ],
+  "gradOk": true,
+  "name": "삼성 AI 챌린지 (SAIT, 삼성 AI 포럼 연계)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2025년 'AI Co-Scientist' 부문 개최는 확인. 2026·2027 일정은 미확인",
+  "organizer": "삼성전자 SAIT·Samsung AI Center",
+  "prize": "부문별 최우수 1,000만원, 우수 500만원, 장려 300만원×2 (2024)",
+  "sourceUrl": "https://www.ajunews.com/view/20240729085710448",
+  "status": "확인필요",
+  "summary": "SAIT가 낸 주제로 약 6주 동안 알고리즘과 코드를 개발해 제출하면 평가 점수로 부문별 팀을 뽑는다. 2024년 주제는 블랙박스 최적화, 반도체 소재 시뮬레이션 ML, 온디바이스 LLM 추론 최적화였다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "8월 초 접수, 9월 중순 마감, 11월 삼성 AI 포럼 시상",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

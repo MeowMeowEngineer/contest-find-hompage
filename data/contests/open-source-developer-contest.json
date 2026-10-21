@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "오픈소스 SW 결과물"
+    ]
+  },
+  "eligibility": "학생부문: 대학(원) 재학·휴학생 포함. 일반부문: 누구나",
+  "fields": [
+    "컴퓨터·SW",
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "오픈소스 개발자대회 (구 공개SW 개발자대회)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년(20주년) 접수 끝남. 2027년 6~7월 접수 예상(전년도 기준 추정)",
+  "organizer": "과학기술정보통신부 (NIPA 주관)",
+  "prize": "자유과제 대상 학생·일반 부문 각 1,000만원",
+  "sourceUrl": "https://thinkyou.co.kr/contest/64270/",
+  "status": "다음 회차 대기",
+  "summary": "과제 유형을 골라 오픈소스 SW를 개발해 내면 서류와 결과물 심사로 부문별 수상작을 정한다. 2007년부터 매년 열렸다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "6월 중순~7월 중순 참가 신청",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

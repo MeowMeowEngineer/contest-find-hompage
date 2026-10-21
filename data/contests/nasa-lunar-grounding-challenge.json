@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "한국 학생이 참가하고 상금을 받을 수 있는지 CrowdPlat의 Eligibility 항목에서 확인해야 합니다"
+    ],
+    "needs": [
+      "1단계 개념설계서"
+    ]
+  },
+  "eligibility": "참가비 무료. 한국 학생의 참가·상금 수령 가능 여부는 미확인. 같은 NASA 계열 대회 중에는 외국인 참가는 받되 상금은 미국 팀에만 준 사례가 있으니 등록 전 CrowdPlat의 Eligibility 항목을 확인",
+  "fields": [
+    "전기·전력",
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "NASA 루나 그라운딩 챌린지 (Lunar Grounding Challenge)",
+  "nextDeadline": "2027-01-15",
+  "nextDeadlineNote": "1단계(개념설계) 마감 2027-01-15. 2단계는 1단계 최종 후보만 참가(최대 5팀이라는 보도 있음). 2단계 일정은 미공지",
+  "organizer": "NASA (NASA Tournament Lab, CrowdPlat 플랫폼 운영)",
+  "prize": "총상금 최대 15만 달러",
+  "sourceUrl": "https://work.crowdplat.com/challenge/lunar-grounding-challenge",
+  "status": "모집중",
+  "summary": "달 남극 선외활동 중 마찰대전으로 -100kV 이상 대전된 우주복을, 약 +100V인 착륙선에 닿기 전에 안전하게 방전시키는 장치와 운용 방안을 개념설계서로 낸다. 조건은 질량 20kg 미만, 10일 동안 EVA 4회 지원, 접점 방전전류 1.0mA 이하(목표 0.2mA)이다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "단발성 대회. 2026-10-05 접수 시작, 1단계 개념설계 2027-01-15 마감",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
+  "verifiedAt": "2026-10-21"
+}

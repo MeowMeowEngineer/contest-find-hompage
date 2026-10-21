@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "발표 신청 후 원고 제출"
+    ]
+  },
+  "eligibility": "종합학술대회 논문 발표자(학생 포함, 대학원생 수상 사례 있음)",
+  "fields": [
+    "국방",
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "한국군사과학기술학회 종합학술대회 우수논문상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026 종합학술대회(6/10~12, 제주)는 끝남. 2027년 4월 신청 예상(전년도 기준 추정). 11월 추계학술대회도 있음",
+  "organizer": "한국군사과학기술학회(KIMST)",
+  "prize": null,
+  "sourceUrl": "https://www.kimst.or.kr/bbs/index.kin?bbs_mode=view&f_wbcode=board_notice&f_master_idx=264",
+  "status": "다음 회차 대기",
+  "summary": "종합학술대회에 발표를 신청하고 원고를 낸 뒤 14개 기술분과 세션에서 발표하면 우수논문을 골라 시상한다.",
+  "type": "논문상",
+  "typicalDeadline": "4월 하순 발표 신청, 5월 중순 원고 제출 (2026: 신청 4/24, 원고 5/11)",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.kimst.or.kr/",
+  "verifiedAt": "2026-10-21"
+}

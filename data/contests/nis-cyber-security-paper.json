@@ -1,0 +1,35 @@
+{
+  "confidence": "low",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "unknown": "참가 자격이 공개 자료에서 확인되지 않았습니다"
+  },
+  "eligibility": "미확인 (대학원생 참가 가능한 논문공모로 소개됨)",
+  "fields": [
+    "컴퓨터·SW",
+    "국방"
+  ],
+  "gradOk": true,
+  "name": "사이버안보 논문공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년 공모 기사만 확인. 접수 기간과 상금은 미확인",
+  "organizer": "국가정보원·한국사이버안보학회",
+  "prize": null,
+  "sourceUrl": "https://www.dailysecu.com/news/articleView.html?idxno=208164",
+  "status": "확인필요",
+  "summary": "사이버안보 주제 논문을 공모한다. 제출 형식과 심사 방식은 확인하지 못했다.",
+  "type": "논문상",
+  "typicalDeadline": "미확인",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

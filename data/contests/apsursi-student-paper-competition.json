@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "needs": [
+      "학생이 제1저자이자 유일한 학생 저자인 논문",
+      "지도교수 확인 메일 회신"
+    ]
+  },
+  "eligibility": "학생이 제1저자이자 유일한 학생 저자, 지도교수는 학위 기관 소속",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "IEEE AP-S/URSI 2027 Student Paper Competition",
+  "nextDeadline": "2027-01-11",
+  "nextDeadlineNote": "AP-S/URSI 2027(교토, 6/20~25) 일반 논문 마감 2027-01-11 AoE, 연장 없음. SPC 전용·지도교수 확인 마감은 미공지",
+  "organizer": "IEEE AP-S / USNC-URSI (2027 일본 교토)",
+  "prize": null,
+  "sourceUrl": "https://2026.apsursi.org/spc.php",
+  "status": "모집중",
+  "summary": "학생이 전체 논문을 SPC 부문으로 내면 지도교수 학교 메일로 확인 요청이 가고, 기한 안에 확인해야 자격이 유지된다. 상위 논문이 결선에 올라 현장 발표로 순위를 가린다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "1월 중하순 (2026: 논문 1/23, 지도교수 확인 1/25)",
+  "typicalMonths": [
+    1
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://2027.apsursi.org/",
+  "verifiedAt": "2026-10-21"
+}

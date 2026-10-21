@@ -1,0 +1,29 @@
+{
+  "name": "대학원 공모전 레이더",
+  "site_url": "https://gongmo-radar.vercel.app",
+  "mode": "preview",
+  "lang": "ko",
+  "tagline": "대학원생이 낼 수 있는 학회 논문상, 기업 논문상, AI 챌린지, 설계 경진대회, 펠로우십의 마감일과 참가 자격을 모았습니다.",
+  "types": {
+    "논문상": {"slug": "paper-awards", "label": "논문상"},
+    "학생논문경진": {"slug": "student-paper-contests", "label": "학생논문 경진대회"},
+    "AI·데이터 챌린지": {"slug": "ai-data-challenges", "label": "AI·데이터 챌린지"},
+    "설계·개발 경진": {"slug": "design-contests", "label": "설계·개발 경진대회"},
+    "아이디어·특허 공모": {"slug": "idea-patent-contests", "label": "아이디어·특허 공모전"},
+    "펠로우십·장학": {"slug": "fellowships", "label": "펠로우십·장학금"}
+  },
+  "fields": {
+    "전자파·RF": "rf-microwave",
+    "반도체·회로": "semiconductor-circuits",
+    "통신·네트워크": "communications",
+    "AI·데이터": "ai-data",
+    "전기·전력": "power-energy",
+    "컴퓨터·SW": "computer-software",
+    "과학기술 전반": "science-general",
+    "국방": "defense"
+  },
+  "_notes": {
+    "site_url": "2026-10-21 운영자: webforai.kr는 다른 사람 도메인이라 쓰지 않는다. 본인이 가질 수 있는 Vercel 기본 주소로 한다. 도메인을 사면 이 값 하나만 바꾸고 다시 빌드한다.",
+    "mode": "preview는 모든 페이지 noindex + robots Disallow + vercel.json X-Robots-Tag. 공개 전환은 운영자가 정한다(CLAUDE.md '공개 전환')."
+  }
+}

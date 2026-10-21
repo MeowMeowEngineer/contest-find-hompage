@@ -1,0 +1,38 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "하계종합학술대회 논문 제출과 발표"
+    ]
+  },
+  "eligibility": "하계종합학술대회 논문 발표자. 대학원생은 일반·우수 논문 트랙, 학부생은 학부생 논문경진대회로 심사",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "한국전자파학회 하계종합학술대회 우수논문상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026 하계(8/19~22, 평창)는 끝남. 2027년 6~7월 논문 마감 예상(전년도 기준 추정)",
+  "organizer": "한국전자파학회(KIEES)",
+  "prize": null,
+  "sourceUrl": "https://www.kiees.or.kr/html/?pmode=inputList",
+  "status": "다음 회차 대기",
+  "summary": "전자파·RF 논문을 하계 학술대회에 내고 구두·포스터로 발표하면 트랙별로 심사해 우수논문상을 준다. 2026년에는 석사과정생이 RF 결합기 설계 논문으로 받았다. 상금은 미확인.",
+  "type": "학생논문경진",
+  "typicalDeadline": "6월 말~7월 중순 논문 마감 (2025: 6/27, 2026: 7/12), 8월 개최",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.kiees.or.kr/html/?pmode=event",
+  "verifiedAt": "2026-10-21"
+}

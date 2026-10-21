@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "챌린지별 참가 규칙 확인",
+      "상위 팀은 2쪽 논문"
+    ]
+  },
+  "eligibility": "챌린지별 규칙 (대부분 누구나 팀 참가)",
+  "fields": [
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "IEEE ICASSP 2027 Signal Processing Grand Challenges",
+  "nextDeadline": "2027-01-07",
+  "nextDeadlineNote": "ICASSP 2027(토론토, 5/16~21) 상위 팀 초청 2쪽 논문 마감 2027-01-07. 개별 챌린지의 결과 제출 마감은 각 챌린지 페이지 확인",
+  "organizer": "IEEE Signal Processing Society / ICASSP 조직위",
+  "prize": null,
+  "sourceUrl": "https://2027.ieeeicassp.org/?p=4403",
+  "status": "모집중",
+  "summary": "각 챌린지가 공개한 데이터로 모델을 개발해 결과를 내면 챌린지별 지표로 순위를 매기고, 상위 팀은 2쪽 논문을 ICASSP 논문집에 싣고 발표한다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "챌린지는 가을에 진행, 상위 팀 2쪽 논문 1월 초 마감",
+  "typicalMonths": [
+    1
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://2027.ieeeicassp.org/?p=4403",
+  "verifiedAt": "2026-10-21"
+}

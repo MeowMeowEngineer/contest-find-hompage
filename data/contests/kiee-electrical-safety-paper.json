@@ -1,0 +1,38 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "하계학술대회에 전기안전 분야 논문 제출"
+    ]
+  },
+  "eligibility": "대한전기학회 하계학술대회에 전기안전 분야 논문을 낸 저자. 학계(교수·학생)와 산업·연구계 부문을 따로 심사",
+  "fields": [
+    "전기·전력"
+  ],
+  "gradOk": true,
+  "name": "전기안전 우수논문 공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026 하계학술대회(7/8~11, 용평)는 끝남. 2027년 5월 하순 마감 예상(전년도 기준 추정)",
+  "organizer": "한국전기안전공사 전기안전연구원·대한전기학회(KIEE)",
+  "prize": "총상금 1,000만원, 6편 선정, 장관상 포함 (2023년 기준)",
+  "sourceUrl": "http://conf2023.kiee.or.kr/pages/electrical.vm",
+  "status": "다음 회차 대기",
+  "summary": "전기안전 관련 논문을 하계학술대회에 내면 1차 심사와 분야별 최종 심사를 거쳐 장관상, 기관장상을 준다. 상금은 1저자 1명에게 준다.",
+  "type": "논문상",
+  "typicalDeadline": "5월 하순, 하계학술대회 원고 마감과 같음",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://conf.kiee.or.kr/pages/electrical.vm",
+  "verifiedAt": "2026-10-21"
+}

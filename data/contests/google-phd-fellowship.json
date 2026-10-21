@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "manual": [
+      "소속 대학의 추천을 받아야 합니다(학생이 직접 신청할 수 없음)"
+    ],
+    "needs": [
+      "연구 제안서, CV, 추천서"
+    ]
+  },
+  "eligibility": "소속 대학이 추천한 박사과정생만 지원 가능(학생 직접 신청 불가, 학교당 추천 인원 제한). 과거 수혜자는 재지원 불가",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "Google PhD Fellowship (동아시아·한국)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 공고 전. 2027년 3~4월 학교 내부 추천, 4~5월 대학 추천 예상(전년도 기준 추정). 아주대 산학협력단·대학원 공지 확인",
+  "organizer": "Google Research",
+  "prize": "1년간 최대 US$10,000(생활비·연구비·출장비)과 Google 연구자 멘토링 (2025 한국 공고)",
+  "sourceUrl": "https://blog.google/intl/ko-kr/company-news/outreach-initiatives/phd-fellowship-2025-kr",
+  "status": "다음 회차 대기",
+  "summary": "학교가 내부에서 뽑은 박사과정생을 Google에 추천하면 Google이 연구 제안서, CV, 추천서를 심사한다. 한국에서는 2015년부터 10년간 29명이 뽑혔다.",
+  "type": "펠로우십·장학",
+  "typicalDeadline": "학교 내부 추천 3~4월, 대학의 Google 추천 마감 4월 말~5월 중순 (2026: 4/30)",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://research.google/programs-and-events/phd-fellowship/",
+  "verifiedAt": "2026-10-21"
+}

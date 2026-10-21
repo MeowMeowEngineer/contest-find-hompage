@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "uni": "국내",
+    "needs": [
+      "2~3인 팀",
+      "연구 제안서"
+    ]
+  },
+  "eligibility": "국내 대학(원)생 2~3인 팀",
+  "fields": [
+    "AI·데이터",
+    "통신·네트워크"
+  ],
+  "gradOk": true,
+  "name": "SKT AI 펠로우십",
+  "nextDeadline": null,
+  "nextDeadlineNote": "7기(2025) 이후 모집 공고를 찾지 못함. 계속 운영되는지 확인 필요",
+  "organizer": "SK텔레콤",
+  "prize": "팀당 연구비 600만원, 우수 과제 포상 (6기, 2024)",
+  "sourceUrl": "https://news.sktelecom.com/203163",
+  "status": "확인필요",
+  "summary": "SKT 현업 부서가 낸 과제(생성형 AI, 비전·미디어, 네트워크 인프라 AI 등) 중 하나로 연구 제안서를 낸다. 선발되면 5개월 동안 현업과 함께 개발하고 결과 평가로 우수 팀을 포상한다.",
+  "type": "펠로우십·장학",
+  "typicalDeadline": "4월 중순 모집, 약 5개월 과제 수행",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

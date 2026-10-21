@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "min": 19,
+      "soft": true
+    },
+    "needs": [
+      "게임 AI 서비스 시연"
+    ]
+  },
+  "eligibility": "만 19세 이상 누구나",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "NHN 넥스트 AI 네트워크 (NAN)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년 대회는 끝남. 다음 회차 개최 여부 미공지",
+  "organizer": "NHN",
+  "prize": "총상금 8,000만원 (대상 5,000만원), 채용 특전 (2026)",
+  "sourceUrl": "https://www.twig24.com/news/2026/07/30/20260730039004",
+  "status": "다음 회차 대기",
+  "summary": "게임에 쓸 AI 서비스나 기능을 개발해 본선에서 시연·발표하면 심사로 순위를 가린다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "2026년 8월 10일 신청 마감, 9월 초 본선",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

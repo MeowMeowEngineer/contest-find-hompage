@@ -1,0 +1,43 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 2회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "min": 19,
+      "max": 29
+    },
+    "unemployed": true,
+    "needs": [
+      "온라인 AI 교육 이수"
+    ]
+  },
+  "eligibility": "만 19~29세 미취업 청년 (대학원생도 나이·미취업 요건을 채우면 가능)",
+  "fields": [
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "LG Aimers 해커톤",
+  "nextDeadline": null,
+  "nextDeadlineNote": "10기(겨울 기수) 공고 전. 2026년 말~2027년 초 모집 가능성 있음",
+  "organizer": "LG AI연구원",
+  "prize": "상위 3팀 총 1,000만원, LG 입사 지원 시 서류전형 면제 (8기)",
+  "sourceUrl": "https://www.heraldk.com/article/2026040517000044266",
+  "status": "다음 회차 대기",
+  "summary": "온라인 AI 교육을 듣고 온라인 해커톤 예선에서 모델 성능을 겨룬 뒤, 상위 팀이 1박 2일 오프라인 본선 과제(8기: EXAONE 경량화)로 순위를 정한다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "여름 기수 5월 하순~6월 중순 모집 (9기: 5/22~6/15). 겨울 기수 모집 시기 미확인",
+  "typicalMonths": [
+    6
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.lgaimers.ai",
+  "verifiedAt": "2026-10-21"
+}

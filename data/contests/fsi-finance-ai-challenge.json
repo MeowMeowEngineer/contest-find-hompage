@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "nationality": "KR",
+    "needs": [
+      "개인 또는 4인 이하 팀",
+      "작동하는 웹서비스"
+    ]
+  },
+  "eligibility": "대한민국 국민 누구나, 개인 또는 4인 이하 팀",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "금융 AI Challenge",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년 접수 끝남. 다음 회차 공지 전",
+  "organizer": "금융보안원 (금융위원회 후원)",
+  "prize": "총상금 3,500만원 (대상 2,000만원, 2026)",
+  "sourceUrl": "https://www.theteams.kr/activities/page/334985/lc",
+  "status": "다음 회차 대기",
+  "summary": "금융 현안을 푸는 AI 아이디어를 실제 작동하는 웹서비스로 만들어 낸다. 서비스 평가를 통과하면 본선 발표 심사를 받는다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "2026년 기준 7월 중순~9월 초 접수",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://daker.ai/public/hackathons/2026-finance-ai-challenge",
+  "verifiedAt": "2026-10-21"
+}

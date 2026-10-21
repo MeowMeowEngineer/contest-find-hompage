@@ -1,0 +1,46 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "min": 19,
+      "soft": true,
+      "note": "기업 과제 부문은 성인만"
+    },
+    "needs": [
+      "임베디드 HW·SW 작품"
+    ]
+  },
+  "eligibility": "자유주제 부문은 누구나, 기업 과제 부문(LG전자 스마트가전, 현대차 모빌리티)은 성인",
+  "fields": [
+    "컴퓨터·SW",
+    "반도체·회로",
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "대한민국 임베디드소프트웨어 경진대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제24회(2026) 접수 끝남. 제25회는 2027년 5월 공고 예상(전년도 기준 추정). 부문별 마감은 출처마다 달라 공고 확인",
+  "organizer": "산업통상부 주최, 한국임베디드AX산업협회 주관",
+  "prize": "대상 300만원, 금상 150만원, 은상 100만원, 동상 50만원",
+  "sourceUrl": "https://www.all-con.co.kr/view/contest/537092",
+  "status": "다음 회차 대기",
+  "summary": "부문을 골라 임베디드 HW·SW 작품을 기획·개발해 결과물을 내고 단계별 심사를 받는다. 기업 과제 부문은 LG전자·현대자동차가 낸 과제를 푼다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "5월 초 접수 시작. 기업 과제 부문 6월 중순, 자유주제 부문 9월 초 마감 (제24회)",
+  "typicalMonths": [
+    6,
+    9
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://eswcontest.or.kr",
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "uni": "국내",
+    "needs": [
+      "직접 설계·제작한 칩과 측정 결과",
+      "논문과 포스터"
+    ]
+  },
+  "eligibility": "칩을 설계·제작한 국내 대학(원)생 팀. IDEC MPW로 칩을 만든 팀은 제작 후 1년 안에 CDC 참여 의무",
+  "fields": [
+    "반도체·회로"
+  ],
+  "gradOk": true,
+  "name": "KCS 2027 칩설계경진대회(CDC)",
+  "nextDeadline": "2026-10-23",
+  "nextDeadlineNote": "제출 9/28~10/23, 1차 평가 11/16~27, 2차 평가 12/14~24, 발표자료 2027-01-04~15, 대회 2027-01-27 강릉",
+  "organizer": "반도체설계교육센터(IDEC) / 한국반도체학술대회",
+  "prize": null,
+  "sourceUrl": "https://www.idec.or.kr/mpw/cdc/apply/list/",
+  "status": "모집중",
+  "summary": "IDEC 누리집에서 신청하고 칩 설계·측정 결과를 담은 논문과 포스터를 낸다. 서면 평가 두 번을 거쳐 2027년 1월 학술대회 현장에서 발표·포스터 심사를 받는다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "9월 말~10월 하순 제출 (KCS 연계). IDEC은 ISOCC·IDEC Congress에서도 CDC를 따로 엶",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.idec.or.kr/mpw/cdc/apply/list/",
+  "verifiedAt": "2026-10-21"
+}

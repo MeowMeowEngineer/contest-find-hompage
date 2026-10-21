@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "manual": [
+      "팀 구성 등 세부 자격은 공식 페이지에서 확인해야 합니다"
+    ],
+    "needs": [
+      "안테나·전자파 예비 설계안"
+    ]
+  },
+  "eligibility": "학생 팀 (세부 자격은 공식 페이지 확인)",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "IEEE AP-S/URSI 2027 Student Design Contest",
+  "nextDeadline": "2026-12-31",
+  "nextDeadlineNote": "예비 설계 마감 2026-12-31, 최종 설계 마감 2027-05-24, 학회 6/20~25 교토",
+  "organizer": "IEEE Antennas and Propagation Society",
+  "prize": null,
+  "sourceUrl": "https://2027.apsursi.org/",
+  "status": "모집중",
+  "summary": "학생 팀이 안테나·전자파 설계 예비안을 12월 31일까지 내고, 최종 설계를 2027년 5월 24일까지 내면 학회에서 심사한다. 올해 과제는 공식 페이지에서 확인해야 한다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "예비 설계 12월 말, 최종 설계 5월 말",
+  "typicalMonths": [
+    12
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://2027.apsursi.org/",
+  "verifiedAt": "2026-10-21"
+}

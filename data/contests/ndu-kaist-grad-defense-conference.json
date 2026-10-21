@@ -1,0 +1,39 @@
+{
+  "confidence": "low",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "needs": [
+      "국방 분야 논문"
+    ]
+  },
+  "eligibility": "전국 대학원 석·박사과정생",
+  "fields": [
+    "국방",
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "대학원생 국방학술대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2025·2026 개최 공고를 찾지 못함. 열린다면 지금이 접수 시기이니 KAIST 안보과학기술대학원 공지 확인",
+  "organizer": "국방대학교·KAIST 안보과학기술대학원",
+  "prize": "대상 국방부장관상 100만원, 금상 3명, 우수상 4명, 장려상 16명 (2024)",
+  "sourceUrl": "https://gst.kaist.ac.kr/board/notice/kaist-%EA%B5%AD%EB%B0%A9%EB%8C%80-%EA%B3%B5%EB%8F%99%EC%A3%BC%EC%B5%9C-%EB%8C%80%ED%95%99%EC%9B%90%EC%83%9D-%EA%B5%AD%EB%B0%A9%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%B5%9C-2/",
+  "status": "확인필요",
+  "summary": "안보정책, 군사전략, 국방관리, 국방과학 중 한 분야 논문을 내면 논문 평가와 발표 평가로 시상한다. 국방과학 분야 우수 논문은 학회지에 실어 준다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "10월 중순 접수, 11월 초 발표 (2024: 10/22 마감)",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://gst.kaist.ac.kr/board/notice/",
+  "verifiedAt": "2026-10-21"
+}

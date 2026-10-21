@@ -1,0 +1,38 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "챌린지 결과 제출(CodaLab)"
+    ]
+  },
+  "eligibility": "학계·산업계 누구나",
+  "fields": [
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "NTIRE Workshop Challenges (CVPR)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "NTIRE 2027 공지 전. 2027년 1월 데이터 공개, 3월 중순 마감 예상(전년도 기준 추정)",
+  "organizer": "NTIRE 워크숍 조직위 (CVPR 연계)",
+  "prize": null,
+  "sourceUrl": "https://conferences.visionbib.com/2026/cvpr-ntire-6-26-call.html",
+  "status": "다음 회차 대기",
+  "summary": "초해상도, 저조도 향상 등 약 20개 챌린지 중 하나를 골라 CodaLab에 복원 결과를 내면 PSNR 등 지표로 순위를 매긴다. 참가 팀은 워크숍 논문을 낼 수 있다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "1월 데이터 공개, 3월 중순 최종 제출, 3월 하순 챌린지 논문",
+  "typicalMonths": [
+    3
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.cvlai.net/ntire/2026/",
+  "verifiedAt": "2026-10-21"
+}

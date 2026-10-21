@@ -1,0 +1,45 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "nationality": "KR",
+    "age": {
+      "min": 19,
+      "max": 34,
+      "note": "군 장병은 나이와 관계없이 참가할 수 있습니다"
+    },
+    "needs": [
+      "온라인 예선 시험"
+    ]
+  },
+  "eligibility": "군 장병과 만 19~34세 대한민국 청년",
+  "fields": [
+    "AI·데이터",
+    "국방"
+  ],
+  "gradOk": true,
+  "name": "국방 AI 경진대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제5회(2026) 접수는 끝남. 본선 11/18~20. 2027년 9월 접수 예상(전년도 기준 추정)",
+  "organizer": "국방부 (IITP·한국오픈소스협회 주관)",
+  "prize": "총상금 5,900만원, 국방부장관상 등 (2026)",
+  "sourceUrl": "https://ditoday.com/?p=152147",
+  "status": "다음 회차 대기",
+  "summary": "예선은 개인별 데이터 사이언스 온라인 시험이고 상위 50명이 본선에 오른다. 본선에서는 5인 1조 10팀이 2박 3일 동안 MUM-T·피지컬 AI 군사 시나리오 과제로 겨룬다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "9월 한 달 접수, 10월 온라인 예선, 11월 본선",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

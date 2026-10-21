@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "needs": [
+      "RWW 소속 학회 논문 발표"
+    ]
+  },
+  "eligibility": "RWW 소속 학회(RWS, PAWR, WiSNet, SiRF, SHaRC)에서 논문을 발표하는 학생",
+  "fields": [
+    "전자파·RF",
+    "통신·네트워크"
+  ],
+  "gradOk": true,
+  "name": "IEEE Radio & Wireless Week Student Paper Contest",
+  "nextDeadline": null,
+  "nextDeadlineNote": "RWW2027(1/17~20, 탬파)은 마감 지남. RWW2028은 2027년 7월 하순 마감 예상(전년도 기준 추정)",
+  "organizer": "IEEE RWW (MTT-S 후원)",
+  "prize": null,
+  "sourceUrl": "https://www.radiowirelessweek.org/authors/papercontest/",
+  "status": "다음 회차 대기",
+  "summary": "논문 제출 화면에서 학생논문경진 체크박스를 선택한다. 결선자는 11월 중순에 통보받고 1월 학회 발표로 심사받는다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "7월 하순 논문 마감, 1월 학회",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.radiowirelessweek.org/authors/papercontest/",
+  "verifiedAt": "2026-10-21"
+}

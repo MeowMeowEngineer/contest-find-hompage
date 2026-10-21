@@ -1,0 +1,44 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "석사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "uni": "국내",
+    "fieldReq": [
+      "공학",
+      "자연과학"
+    ],
+    "needs": [
+      "지도교수 추천",
+      "IRIS 연구계획서",
+      "산학협력단 승인"
+    ]
+  },
+  "eligibility": "국내 대학 이공분야 석사과정 재학생, 지도교수 추천 필요. 인문사회 장려금과 중복 신청 불가",
+  "fields": [
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "이공분야 석사과정생연구장려금",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 공고 전. 2027년 1월 공고, 4월 접수 예상(전년도 기준 추정)",
+  "organizer": "교육부 주최, 한국연구재단 주관",
+  "prize": "연 1,200만원, 1년, 790명 안팎 선정 (2026 공고)",
+  "sourceUrl": "https://www.syu.ac.kr/rnd/",
+  "status": "다음 회차 대기",
+  "summary": "석사과정생이 1년짜리 개인 연구과제 계획서를 IRIS로 내고 한국연구재단 심사로 선정되면 연구비를 받는다. 박사과정생연구장려금과 같은 공고로 접수한다.",
+  "type": "펠로우십·장학",
+  "typicalDeadline": "1월 공고, 4월 초·중순 IRIS 접수 (2026: 4/6~4/13 14시, 기관 승인 4/15)",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.iris.go.kr",
+  "verifiedAt": "2026-10-21"
+}

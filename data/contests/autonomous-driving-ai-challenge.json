@@ -1,0 +1,39 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "3~4인 팀"
+    ]
+  },
+  "eligibility": "3~4인 팀이면 누구나",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "자율주행 인공지능 챌린지",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026 본대회는 끝남. 2027년 7~8월 모집 예상(전년도 기준 추정)",
+  "organizer": "과학기술정보통신부",
+  "prize": "총상금 2,250만원, 과제별 3팀씩 9팀 (2026)",
+  "sourceUrl": "https://www.dailian.co.kr/news/view/1662116/",
+  "status": "다음 회차 대기",
+  "summary": "정부 사업으로 구축한 자율주행 데이터로 모션 플래닝, 궤적 예측, E2E 드라이빙(카메라 6대 영상만으로 경로 생성) 세 과제의 알고리즘을 낸다. 성능 평가와 전문가 검증으로 시상한다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "여름 모집 (2026: 7/1~7/31), 8~9월 본대회",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

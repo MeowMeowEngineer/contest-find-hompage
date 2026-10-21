@@ -1,0 +1,38 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "KCS 초록 제출과 발표"
+    ]
+  },
+  "eligibility": "KCS 초록 제출·발표자(학생 전용 아님, 대학원생 참가가 많음)",
+  "fields": [
+    "반도체·회로"
+  ],
+  "gradOk": true,
+  "name": "한국반도체학술대회(KCS) 우수논문상",
+  "nextDeadline": "2026-10-23",
+  "nextDeadlineNote": "KCS 2027: 초록 마감 10/23(금), 채택 통보 12/16, 사전등록 2027-01-15, 2027-01-27 강릉 개최. 작년에는 2주 연장했음",
+  "organizer": "한국반도체학술대회 조직위원회 (KCS 2027 삼성전자 주관)",
+  "prize": null,
+  "sourceUrl": "https://www.kcsconference.org/2027/awards-2026.php",
+  "status": "모집중",
+  "summary": "KCS에 초록을 내고 채택되면 구두나 포스터로 발표한다. 그중에서 우수논문상, 분과별 우수논문상, 현장우수포스터상을 시상한다.",
+  "type": "논문상",
+  "typicalDeadline": "10월 말 초록 마감 (KCS 2026은 11/7로 2주 연장)",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.kcsconference.org/2027/",
+  "verifiedAt": "2026-10-21"
+}

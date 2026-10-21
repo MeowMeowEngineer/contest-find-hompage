@@ -1,0 +1,47 @@
+{
+  "confidence": "low",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "석사",
+      "박사",
+      "박사후"
+    ],
+    "status": [
+      "재학",
+      "입학예정"
+    ],
+    "fullTime": true,
+    "members": [
+      "IEEE AP-S"
+    ],
+    "manual": [
+      "지도교수도 AP-S 회원이어야 합니다"
+    ],
+    "needs": [
+      "두 학기 이상 수행할 연구 프로젝트 제안"
+    ]
+  },
+  "eligibility": "전일제 석·박사과정 또는 박사후연구원, 본인과 지도교수 모두 AP-S 회원",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "IEEE AP-S Fellowship Program",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027–28 회차는 2027년 8월 말 마감 예상(전년도 기준 추정)",
+  "organizer": "IEEE Antennas and Propagation Society",
+  "prize": "1인 5,000달러",
+  "sourceUrl": "https://enotice.vtools.ieee.org/public/205717",
+  "status": "다음 회차 대기",
+  "summary": "지도교수와 두 학기 이상 수행할 안테나·전파 연구 프로젝트를 제안해 지원하면 AP-S가 심사해 수혜자를 정한다.",
+  "type": "펠로우십·장학",
+  "typicalDeadline": "여름 마감 (2026–27 회차 8월 말로 보임)",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://ieeeaps.org/ieee-antennas-and-propagation-society-fellowship-program",
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,41 @@
+{
+  "confidence": "low",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 2회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "needs": [
+      "학술대회 논문 발표"
+    ]
+  },
+  "eligibility": "학술대회 논문을 발표한 학생",
+  "fields": [
+    "AI·데이터",
+    "통신·네트워크",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "한국방송·미디어공학회 우수학생논문상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026 추계학술대회가 진행 중으로 표시돼 있으나 마감일 미확인",
+  "organizer": "한국방송·미디어공학회(KIBME)",
+  "prize": null,
+  "sourceUrl": "https://www.kibme.org/academic/academicDetail?ae_idx=2382&ae_type=0",
+  "status": "확인필요",
+  "summary": "하계·추계 학술대회에서 발표한 학생 논문 중 우수학생논문상을 고른다. 확인한 수상 사례가 2022년뿐이라 최근 요강은 다시 확인해야 한다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "추계는 10월 중순~하순 논문 마감 (2025 추계: 10/20)",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.kibme.org/",
+  "verifiedAt": "2026-10-21"
+}

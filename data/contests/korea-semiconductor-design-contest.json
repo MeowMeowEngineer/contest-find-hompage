@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "uni": "국내",
+    "needs": [
+      "정부 시상 이력이 없는 반도체 설계 작품"
+    ]
+  },
+  "eligibility": "국내 대학의 반도체 설계 분야 대학생·대학원생, 정부 시상 이력 없는 작품",
+  "fields": [
+    "반도체·회로"
+  ],
+  "gradOk": true,
+  "name": "대한민국 반도체설계대전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제27회(2026)는 10/15 시상으로 끝남. 제28회는 2027년 초 공고, 7월 말 마감 예상(전년도 기준 추정)",
+  "organizer": "산업통상부·지식재산처 주최, 한국반도체산업협회 주관",
+  "prize": "정부포상 8점(대통령상·국무총리상 포함)과 민간포상 13점 (제27회). 상금 미확인",
+  "sourceUrl": "https://www.hellot.net/news/article.html?no=115485",
+  "status": "다음 회차 대기",
+  "summary": "대학(원)생 팀이 반도체 설계 작품을 내면 심사를 거쳐 정부포상과 기업 특별상을 준다. 제27회에는 73개 작품 중 21팀이 수상했다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "1~3월 공고, 7월 말~8월 초 접수 마감, 10월 시상",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://systemiclab.or.kr/DocView.html?menu_seq=23&mode=view&bbs_seq=1431",
+  "verifiedAt": "2026-10-21"
+}

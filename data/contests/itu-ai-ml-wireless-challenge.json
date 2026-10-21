@@ -1,0 +1,37 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "문제별 모델·솔루션 제출"
+    ]
+  },
+  "eligibility": "학생·전문가 누구나",
+  "fields": [
+    "통신·네트워크",
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "ITU AI/ML in 5G Challenge (AI for Good 무선 AI 챌린지)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2025년 SoM Challenge, Large Wireless Model Challenge 개최. 2026~2027 일정 미확인",
+  "organizer": "ITU AI for Good",
+  "prize": null,
+  "sourceUrl": "https://aiforgood.itu.int/about/aiml-in-5g-challenge",
+  "status": "확인필요",
+  "summary": "ITU와 파트너 기관이 낸 5G·6G 무선망 AI/ML 문제를 골라 제공된 실측·시뮬레이션 데이터로 모델을 제출하면 문제별 지표로 순위를 매긴다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "문제별로 다름. 보통 가을 제출, 연말 결선",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://aiforgood.itu.int/about/aiml-in-5g-challenge",
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,48 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학",
+      "휴학"
+    ],
+    "uni": "국내",
+    "regions": [
+      "광주",
+      "전남",
+      "전북"
+    ],
+    "needs": [
+      "2~5인 팀"
+    ]
+  },
+  "eligibility": "전남·광주·전북 소재 대학(원) 재학·휴학생 2~5인 팀 (수도권 대학은 참가 불가)",
+  "fields": [
+    "전기·전력",
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "빛가람 AI·ICT 경진대회",
+  "nextDeadline": "2026-10-11",
+  "nextDeadlineNote": "2026년 접수 끝남. 2027년 9~10월 접수 예상(전년도 기준 추정)",
+  "organizer": "한전KDN",
+  "prize": null,
+  "sourceUrl": "https://www.smarttoday.co.kr/ko-kr/articles/109843",
+  "status": "다음 회차 대기",
+  "summary": "에너지·전력 문제를 푸는 AI·ICT 작품을 팀 단위로 개발해 내면 작품 심사로 수상팀을 정한다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "9월 초~10월 중순 접수 (2026: 9/1~10/11)",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "'해동우수논문상' 분야로 논문 제출",
+      "마감 전 등록비 결제"
+    ]
+  },
+  "eligibility": "학술발표회 논문 제출자(학생 전용 아님). 마감 전에 등록비를 결제한 논문만 심사",
+  "fields": [
+    "통신·네트워크",
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "한국통신학회 동계종합학술발표회 해동우수논문상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027 동계 공지 전. 12월 초 접수 시작, 2027년 1월 중순 마감 예상(전년도 기준 추정)",
+  "organizer": "한국통신학회(KICS), 해동과학문화재단 후원",
+  "prize": null,
+  "sourceUrl": "https://conf.kics.or.kr/2026w/supportInform",
+  "status": "모집예정",
+  "summary": "논문 제출 때 발표분야를 '해동우수논문상'으로 고르면 블라인드 심사를 받는다. 선정 논문은 우수논문 트랙에서 발표하고 6개월 안에 학회 논문지에 투고해야 하며, 떨어진 논문은 일반 세션에서 발표한다.",
+  "type": "논문상",
+  "typicalDeadline": "1월 중순 마감 (2026 동계: 2025-12-09~2026-01-13), 2월 초 용평 개최",
+  "typicalMonths": [
+    1
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://conf.kics.or.kr/2026w",
+  "verifiedAt": "2026-10-21"
+}

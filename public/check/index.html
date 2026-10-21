@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>내 정보로 참가 가능한 공모전 판별 | 대학원 공모전 레이더</title>
+<meta name="description" content="과정·학적·소속 대학·국적·나이를 넣으면 대학원생 공모전과 펠로우십마다 참가 가능 여부와 이유를 알려 줍니다.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://gongmo-radar.vercel.app/check/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="대학원 공모전 레이더">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:title" content="내 정보로 참가 가능한 공모전 판별 | 대학원 공모전 레이더">
+<meta property="og:description" content="과정·학적·소속 대학·국적·나이를 넣으면 대학원생 공모전과 펠로우십마다 참가 가능 여부와 이유를 알려 줍니다.">
+<meta property="og:url" content="https://gongmo-radar.vercel.app/check/">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/fonts/pretendard.css">
+<link rel="stylesheet" href="/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://gongmo-radar.vercel.app/check/", "url": "https://gongmo-radar.vercel.app/check/", "name": "내 정보로 참가 가능한 공모전 판별", "inLanguage": "ko", "isPartOf": {"@id": "https://gongmo-radar.vercel.app/#website"}}]}</script>
+<script src="/assets/eligibility.js" defer></script><script src="/assets/app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">본문으로 건너뛰기</a>
+<header class="top"><div class="wrap top-in">
+<a class="brand" href="/"><img src="/assets/favicon.svg" alt="" width="28" height="28"><span>대학원 공모전 레이더</span></a>
+<nav class="nav" aria-label="주요 메뉴"><a href="/">마감순 목록</a><a href="/check/" aria-current="page">내 자격 판별</a><a href="/calendar/">12개월 일정</a><a href="/about/">소개</a></nav>
+</div></header>
+<main id="main" class="wrap">
+
+<section class="hero small">
+<h1>내 정보로 참가 가능한 공모전 판별</h1>
+<p class="lead">과정, 학적, 소속 대학, 국적, 생년월일을 넣으면 공모전마다 참가 가능, 조건부, 불가로 나눠 보여 줍니다. 입력한 정보는 이 브라우저에만 저장되고 서버로 보내지 않습니다.</p>
+</section>
+<div class="check-grid">
+<form class="panel check-form" data-check-form onsubmit="return false">
+<h2>내 정보</h2>
+<label class="fld"><span>소속 대학</span><input id="p-university" type="text" placeholder="예: 아주대학교" autocomplete="organization"></label>
+<div class="two">
+<label class="fld"><span>과정</span><select id="p-level"><option value="학부">학부</option><option value="석사">석사과정</option><option value="박사">박사과정</option><option value="석박통합">석박통합과정</option><option value="박사후">박사후연구원</option><option value="일반">학생 아님</option></select></label>
+<label class="fld"><span>학적</span><select id="p-status"><option>재학</option><option>휴학</option><option>입학예정</option><option>졸업예정</option><option>졸업</option></select></label>
+</div>
+<div class="two">
+<label class="fld"><span>대학 위치</span><select id="p-uniCountry"><option>국내</option><option>해외</option></select></label>
+<label class="fld"><span>대학 소재지</span><select id="p-uniRegion"><option value="">선택 안 함</option><option>서울</option><option>부산</option><option>대구</option><option>인천</option><option>광주</option><option>대전</option><option>울산</option><option>세종</option><option>경기</option><option>강원</option><option>충북</option><option>충남</option><option>전북</option><option>전남</option><option>경북</option><option>경남</option><option>제주</option></select></label>
+</div>
+<div class="two">
+<label class="fld"><span>전공 계열</span><select id="p-field"><option>공학</option><option>자연과학</option><option value="기타">인문사회·예체능</option></select></label>
+<label class="fld"><span>국적</span><select id="p-nationality"><option value="KR">대한민국</option><option value="other">외국</option></select></label>
+</div>
+<div class="two">
+<label class="fld"><span>생년월일 <small>나이 조건 판별</small></span><input id="p-birth" type="date"></label>
+<label class="fld"><span>입학 연월 <small>신입생 조건 판별</small></span><input id="p-entry" type="month"></label>
+</div>
+<label class="chk"><input id="p-fullTime" type="checkbox"> 전일제 학생</label>
+<label class="chk"><input id="p-employed" type="checkbox"> 회사·연구소에 재직 중</label>
+<fieldset class="members"><legend>가입한 학회</legend>
+<label class="chk"><input type="checkbox" name="member" value="IEEE AP-S"> IEEE AP-S</label>
+<label class="chk"><input type="checkbox" name="member" value="IEEE MTT-S"> IEEE MTT-S</label>
+<label class="chk"><input type="checkbox" name="member" value="대한전자공학회"> 대한전자공학회</label>
+</fieldset>
+<p class="hint" data-default-note>지금은 기본값(국내 대학원 석사과정, 재학, 전일제)으로 판별하고 있습니다. 값을 바꾸면 이 브라우저에 저장됩니다.</p>
+<button class="btn ghost" type="button" data-reset-profile>입력 지우기</button>
+</form>
+<section class="check-results" aria-live="polite">
+<div class="tally" data-tally></div>
+<div data-results><p class="hint">판별 결과를 불러오는 중입니다. 자바스크립트가 꺼져 있으면 <a href="/">전체 목록</a>에서 공모전별 참가 자격을 볼 수 있습니다.</p></div>
+</section>
+</div>
+
+</main>
+<footer class="foot"><div class="wrap">
+<p>대학원 공모전 레이더는 대학원생이 참가할 수 있는 공모전·논문상·펠로우십의 공고를 모아 마감일과 참가 자격을 정리합니다. 각 항목의 공식 페이지 링크에서 원문 공고를 볼 수 있습니다.</p>
+</div></footer>
+</body>
+</html>

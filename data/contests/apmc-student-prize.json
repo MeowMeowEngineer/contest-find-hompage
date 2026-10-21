@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "needs": [
+      "APMC 정규 논문 제출",
+      "EDAS에 학생증 업로드"
+    ]
+  },
+  "eligibility": "학생 저자. 최초 논문 제출 때 EDAS에 학생증 업로드",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "APMC Student Prize",
+  "nextDeadline": null,
+  "nextDeadlineNote": "APMC 2027은 중국 개최 예정, 날짜·마감 미공지. 2027년 5~6월 마감 예상(전년도 기준 추정)",
+  "organizer": "Asia-Pacific Microwave Conference 조직위",
+  "prize": null,
+  "sourceUrl": "https://apmc2026.org/paper-submission.html",
+  "status": "다음 회차 대기",
+  "summary": "APMC 정규 논문을 낼 때 학생상 후보로 신청하고 EDAS에 학생증을 올린다. 학생 설계 경진대회와 여행 지원금도 함께 운영한다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "5~6월 APMC 논문 마감과 같음 (2026: 6/2로 연장)",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://apmc2026.org/paper-submission.html",
+  "verifiedAt": "2026-10-21"
+}

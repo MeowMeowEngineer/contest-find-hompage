@@ -1,0 +1,44 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "members": [
+      "IEEE AP-S"
+    ],
+    "manual": [
+      "지도교수도 같은 학교의 AP-S 회원이어야 합니다"
+    ],
+    "needs": [
+      "1년 이상 연구 프로젝트 계획",
+      "CV와 지도교수 추천서"
+    ]
+  },
+  "eligibility": "AP-S 회원 박사과정생, 같은 학교 AP-S 회원 교수 지도의 1년 이상 프로젝트",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "IEEE AP-S Doctoral Research Grant",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027 회차 공고 전. 2027년 3월 말 마감 예상(전년도 기준 추정)",
+  "organizer": "IEEE Antennas and Propagation Society",
+  "prize": "1인 4,000달러, 연 최대 10명",
+  "sourceUrl": "https://ieeeaps.org/all-announcements",
+  "status": "다음 회차 대기",
+  "summary": "CV와 AP-S 회원 지도교수 추천서를 포함한 신청서를 낸다. 연구 프로젝트는 최소 1년이며 학위 전에 끝나야 한다.",
+  "type": "펠로우십·장학",
+  "typicalDeadline": "2월 초 공지, 3월 말 마감 (2026 회차)",
+  "typicalMonths": [
+    3
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://ieeeaps.org/aps-2026-doctoral-research-grants",
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "KSC 논문 제출과 발표"
+    ]
+  },
+  "eligibility": "KSC 논문 제출·발표자(학생 포함)",
+  "fields": [
+    "컴퓨터·SW",
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "한국정보과학회 KSC 우수논문상",
+  "nextDeadline": "2026-10-19",
+  "nextDeadlineNote": "KSC2026(12/21~23, 경주)은 10/19 원고 마감. 연장 공지는 찾지 못함",
+  "organizer": "한국정보과학회(KIISE)",
+  "prize": null,
+  "sourceUrl": "https://www.kofst.or.kr/portal/bbs/B0000042/view.do?pstSn=6864&menuSn=59&pageIndex=1",
+  "status": "확인필요",
+  "summary": "12월 KSC에 논문을 내고 발표하면 우수논문상 등을 선정한다. 학생 전용 부문이 있는지는 확인하지 못했다.",
+  "type": "논문상",
+  "typicalDeadline": "10월 중순 원고 마감, 12월 개최",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://kiise.or.kr/academy/main/main.fa",
+  "verifiedAt": "2026-10-21"
+}

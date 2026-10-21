@@ -1,0 +1,36 @@
+{
+  "confidence": "low",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "동계종합학술대회 논문 제출과 발표"
+    ]
+  },
+  "eligibility": "동계종합학술대회 논문 발표자. 학부생은 별도 학부생 논문경진대회",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "한국전자파학회 동계종합학술대회 우수논문상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027 동계 공고 전. 11월 말 접수 시작, 2027년 2월 개최 예상(전년도 기준 추정). 마감일은 학회 공지로 확인",
+  "organizer": "한국전자파학회(KIEES)",
+  "prize": null,
+  "sourceUrl": "https://2026winter.kiees.or.kr/html/?pmode=Intro",
+  "status": "모집예정",
+  "summary": "전자파·RF 논문을 동계 학술대회에 내고 발표하면 일반·우수·학부생 트랙별로 우수논문상을 심사한다. 2026 동계(2/25~27, 제주)에서는 세종대 석사과정생이 우수논문상 대상을 받았다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "2월 개최. 2026 동계는 2025-11-28 접수 시작, 마감일 미확인",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.kiees.or.kr/html/?pmode=event",
+  "verifiedAt": "2026-10-21"
+}

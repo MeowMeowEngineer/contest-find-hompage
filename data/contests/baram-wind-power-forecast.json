@@ -1,0 +1,43 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "status": [
+      "재학",
+      "휴학",
+      "졸업예정"
+    ],
+    "generalUnemployed": true,
+    "needs": [
+      "예측 모델과 코드"
+    ]
+  },
+  "eligibility": "국내외 대학생·대학원생, 졸업예정자, 취업준비생",
+  "fields": [
+    "전기·전력",
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "풍력발전량 예측 AI 경진대회 (BARAM)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제3회(2026) 끝남. 제4회 공지 전",
+  "organizer": "한국동서발전, 데이콘 운영",
+  "prize": "총상금 2,000만원 (대상 500만원, 2026)",
+  "sourceUrl": "https://www.theteams.kr/activities/page/328366/lc",
+  "status": "다음 회차 대기",
+  "summary": "기상예보 데이터로 풍력발전량을 예측하는 모델의 예측값을 데이콘 리더보드에 내면 오차 지표로 순위가 매겨지고, 상위 팀은 코드 검증을 거쳐 수상한다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "회차마다 다름 (2025: 3~4월, 2026: 6/12~8/14)",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://dacon.io",
+  "verifiedAt": "2026-10-21"
+}

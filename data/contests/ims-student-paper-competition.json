@@ -1,0 +1,42 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "fullTime": true,
+    "needs": [
+      "학생이 제1저자인 IMS 논문",
+      "IMS 현장 발표"
+    ]
+  },
+  "eligibility": "학생이 제1저자이고 연구 기간과 마감일에 전일제 학생, IMS 현장 발표 필수",
+  "fields": [
+    "전자파·RF",
+    "반도체·회로"
+  ],
+  "gradOk": true,
+  "name": "IEEE IMS2027 Student Paper Competition",
+  "nextDeadline": "2026-12-08",
+  "nextDeadlineNote": "IMS2027(2027-05-23~28) 논문 마감 12/8(화). 결선 진출자는 2027년 3월 발표",
+  "organizer": "IEEE MTT-S (IMS2027, 미국 샌안토니오)",
+  "prize": null,
+  "sourceUrl": "https://ims-ieee.org/authortools2027",
+  "status": "모집중",
+  "summary": "학생이 제1저자인 IMS 정규 논문을 내면서 학생논문경진 참가를 선택한다. 결선자(약 10편)는 IMS 현장 발표와 질의응답으로 1~3위를 가린다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "12월 초, IMS 정규 논문 마감과 같은 날",
+  "typicalMonths": [
+    12
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://ims-ieee.org/ims2027-sanantonio",
+  "verifiedAt": "2026-10-21"
+}

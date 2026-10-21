@@ -1,0 +1,36 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "대회별 참가 규칙 확인"
+    ]
+  },
+  "eligibility": "대회별 규칙 (대부분 누구나)",
+  "fields": [
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "NeurIPS Competition Track",
+  "nextDeadline": null,
+  "nextDeadlineNote": "NeurIPS 2026 대회 16개가 진행 중이며 마감은 대회마다 다름",
+  "organizer": "NeurIPS (대회별 주최 기관)",
+  "prize": null,
+  "sourceUrl": "https://blog.neurips.cc/2026/07/28/neurips-2026-competitions-announced/",
+  "status": "확인필요",
+  "summary": "과학 AI, 의료, 파운데이션 모델 평가, 로보틱스 등 대회 하나를 골라 모델이나 에이전트를 내면 리더보드로 순위를 매긴다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "7월 말 대회 목록 발표, 가을까지 진행, 12월 NeurIPS에서 결과 발표",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://blog.neurips.cc/2026/07/28/neurips-2026-competitions-announced/",
+  "verifiedAt": "2026-10-21"
+}

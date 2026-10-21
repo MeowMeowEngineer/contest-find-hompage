@@ -1,0 +1,42 @@
+{
+  "confidence": "low",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학",
+      "휴학",
+      "졸업예정"
+    ],
+    "needs": [
+      "AI·디지털 주제 논문"
+    ]
+  },
+  "eligibility": "대학(원)생 (휴학생·졸업예정자 포함)",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "AI·디지털 논문공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년 접수는 끝남. 다음 회차 공지 전",
+  "organizer": "과학기술정보통신부",
+  "prize": null,
+  "sourceUrl": "https://www.theteams.kr/activities/page/327842/lc",
+  "status": "다음 회차 대기",
+  "summary": "AI·디지털 주제 논문을 내면 서면 심사로 수상작을 정한다. 세부 주제와 심사 기준은 공고문에서 확인해야 한다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "2026년 기준 6월 중순~9월 하순 접수 (6/15~9/25)",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

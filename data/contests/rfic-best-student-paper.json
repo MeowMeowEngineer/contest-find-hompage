@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "fullTime": true,
+    "needs": [
+      "칩 측정 결과가 있는 학생 제1저자 RFIC 논문",
+      "학회 현장 발표"
+    ]
+  },
+  "eligibility": "학생이 제1저자이고 전일제 학생, 학회 현장 발표",
+  "fields": [
+    "반도체·회로",
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "IEEE RFIC 2027 Best Student Paper Award",
+  "nextDeadline": "2027-01-06",
+  "nextDeadlineNote": "RFIC 2027 논문 마감 2027-01-06(수). 칩 측정 결과 필수",
+  "organizer": "IEEE RFIC Symposium (IMS2027과 공동 개최)",
+  "prize": null,
+  "sourceUrl": "https://ims-ieee.org/authortools2027",
+  "status": "모집중",
+  "summary": "칩 제작·측정 결과가 있는 학생 제1저자 RFIC 논문을 낸다. 기술위원회가 결선 논문을 지명하고 심사위원단이 상위 3편을 고르며, 결선자는 등록비를 면제받는다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "1월 초, RFIC 논문 마감과 같은 날",
+  "typicalMonths": [
+    1
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://rfic-ieee.org/",
+  "verifiedAt": "2026-10-21"
+}

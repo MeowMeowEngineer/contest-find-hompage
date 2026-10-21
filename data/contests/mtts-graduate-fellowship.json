@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "manual": [
+      "MTT-S 회원 요건 등 세부 자격은 공고에서 확인해야 합니다"
+    ],
+    "needs": [
+      "온라인 신청서"
+    ]
+  },
+  "eligibility": "마이크로파 공학 분야 대학원생",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "IEEE MTT-S Graduate Fellowship",
+  "nextDeadline": "2026-10-15",
+  "nextDeadlineNote": "2026년 마감(10/15)은 지남. 다음은 2027-10-15 예상(전년도 기준 추정)",
+  "organizer": "IEEE MTT-S",
+  "prize": "1인 6,000달러, 연 최대 15명 (의료응용 Ayre Rosen 펠로우십은 여행 지원 1,000달러 추가)",
+  "sourceUrl": "https://mtt.org/students/",
+  "status": "다음 회차 대기",
+  "summary": "MTT-S 제출 시스템에 신청서를 온라인으로 낸다. MTT-S가 심사해 마이크로파 분야 대학원 연구를 지원할 학생을 뽑는다.",
+  "type": "펠로우십·장학",
+  "typicalDeadline": "매년 10월 15일 (제출 시스템은 약 1달 전에 열림)",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://mtt.org/students/",
+  "verifiedAt": "2026-10-21"
+}

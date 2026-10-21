@@ -1,0 +1,42 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "nationality": "KR",
+    "age": {
+      "min": 14,
+      "soft": true
+    },
+    "needs": [
+      "공식 양식의 소논문 PDF",
+      "본선 발표 참석"
+    ]
+  },
+  "eligibility": "만 14세 이상 대한민국 국적자. 전공·학력 제한 없음, 참가비 무료",
+  "fields": [
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "제1회 라이너 스콜라 연구공모전",
+  "nextDeadline": "2026-10-25",
+  "nextDeadlineNote": "참가 신청 10/12~10/25 24시, 소논문 PDF 제출 10/26~11/08, 본선 진출자 발표 11/13, 본선·시상 11/19 18시 라이너 오피스(서울 마포). 본선에 불참하면 자동 탈락. 문의 scholar@linercorp.com",
+  "organizer": "라이너(Liner)",
+  "prize": "우수 10명에게 맥북 1대, 아이패드 4대, 에어팟 5대. 신청자 전원 라이너 2,500크레딧",
+  "sourceUrl": "https://www.newspim.com/news/view/20261016000977",
+  "status": "모집중",
+  "summary": "'우리가 믿어온 통념, 논문으로 검증하다'가 주제다. 일상 통념 하나를 연구 질문으로 정해 AI 리서치 도구로 학술 근거를 찾아 검증한 소논문을 공식 양식 PDF로 낸다. 논문 평가와 본선 발표로 우수자 10명을 뽑는다.",
+  "type": "논문상",
+  "typicalDeadline": "참가 신청 10월 25일, 소논문 제출 11월 8일 (제1회)",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://linkareer.com/activity/356442",
+  "verifiedAt": "2026-10-21"
+}

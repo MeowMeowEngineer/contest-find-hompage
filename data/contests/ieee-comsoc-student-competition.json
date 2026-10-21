@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "needs": [
+      "통신 기술 프로젝트 정리 자료"
+    ]
+  },
+  "eligibility": "학부·대학원 학생 개인 또는 팀",
+  "fields": [
+    "통신·네트워크"
+  ],
+  "gradOk": true,
+  "name": "IEEE ComSoc Student Competition",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026 접수 끝남. 2027년 9월 중순 마감 예상(전년도 기준 추정)",
+  "organizer": "IEEE Communications Society",
+  "prize": "1위 US$3,000, 2위 US$2,000, 3위 US$1,000. 우승팀 Globecom 초청",
+  "sourceUrl": "https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/blog/2026-09-07-IEEE-ComSoc-Student-Competition/",
+  "status": "다음 회차 대기",
+  "summary": "통신 기술로 사람들의 삶을 개선한 프로젝트를 정리해 낸다. 국제 심사위원회가 독창성, 사회적 영향, 실제 성과로 순위를 매긴다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "9월 중순 마감, 12월 Globecom 시상",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.comsoc.org/membership/ieee-comsoc-student-competition",
+  "verifiedAt": "2026-10-21"
+}

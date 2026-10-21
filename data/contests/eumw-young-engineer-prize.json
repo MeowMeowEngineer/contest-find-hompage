@@ -1,0 +1,44 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "max": 30,
+      "ref": "2027-12-31",
+      "note": "2027년 말까지 31세 생일이 오지 않아야 합니다"
+    },
+    "needs": [
+      "EuMC 또는 EuMIC 논문을 제1저자로 직접 발표"
+    ]
+  },
+  "eligibility": "논문 제1저자이자 발표자이며 해당 연도 말 이후 31세 생일을 맞는 사람",
+  "fields": [
+    "전자파·RF",
+    "반도체·회로"
+  ],
+  "gradOk": true,
+  "name": "EuMW EuMC/EuMIC Young Engineer Prize",
+  "nextDeadline": null,
+  "nextDeadlineNote": "EuMW 2027은 2027-10-03~08 밀라노. 2027 논문 모집 공고 전. 봄 마감 예상(전년도 기준 추정)",
+  "organizer": "European Microwave Association (EuMA)",
+  "prize": "EuMC·EuMIC 각 2,000유로",
+  "sourceUrl": "https://www.eumw.eu/wp-content/uploads/2025/10/4997_eumw2026_call_for_papers-06.pdf",
+  "status": "모집예정",
+  "summary": "EuMC 또는 EuMIC 논문을 제1저자로 직접 발표하면 후보가 되고, 각 학회 기술위원회가 우수 발표 논문을 고른다. 같은 행사에서 Student Design Challenge도 열린다.",
+  "type": "논문상",
+  "typicalDeadline": "EuMW 논문 마감과 같음, 보통 봄",
+  "typicalMonths": [
+    3
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.eumw.eu/",
+  "verifiedAt": "2026-10-21"
+}

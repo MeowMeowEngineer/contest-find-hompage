@@ -1,0 +1,44 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "min": 19,
+      "soft": true
+    },
+    "foreignNote": "외국인도 참가할 수 있지만 상장은 받지 못합니다",
+    "needs": [
+      "예측 모델 제출",
+      "논문"
+    ]
+  },
+  "eligibility": "만 19세 이상 또는 국내 대학 재학·휴학·졸업 증빙자",
+  "fields": [
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "ETRI 휴먼이해 인공지능 논문경진대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제5회(2026) 끝남. 제6회는 2027년 4~6월 접수 예상(전년도 기준 추정)",
+  "organizer": "한국전자통신연구원(ETRI), 데이콘 운영",
+  "prize": "총상금 530만원 (대상 150만원, 2026)",
+  "sourceUrl": "https://discuss.pytorch.kr/t/5-etri-6-24/9703",
+  "status": "다음 회차 대기",
+  "summary": "ETRI 라이프로그 데이터로 수면·감정·스트레스 상태를 예측하는 모델을 리더보드에 제출하고 논문을 낸다. 예측 점수와 논문 심사로 수상팀을 정한다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "4월 중순 접수 시작, 6월 하순 마감",
+  "typicalMonths": [
+    6
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://dacon.io",
+  "verifiedAt": "2026-10-21"
+}

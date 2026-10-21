@@ -1,0 +1,37 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "KCC 논문 제출과 발표"
+    ]
+  },
+  "eligibility": "KCC 논문 제출·발표자. 학부생·대학원생 수상 사례 있음",
+  "fields": [
+    "컴퓨터·SW",
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "한국정보과학회 KCC 최우수논문상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "KCC2026(6/24~26, 제주)은 끝남. KCC2027 공지 전",
+  "organizer": "한국정보과학회(KIISE)",
+  "prize": null,
+  "sourceUrl": "https://www.eduplusnews.com/news/articleView.html?idxno=19774",
+  "status": "다음 회차 대기",
+  "summary": "KCC에 논문을 내고 발표하면 분야별로 최우수논문상을 고른다. KCC2026에는 971편이 접수돼 14편이 최우수논문상을 받았다.",
+  "type": "논문상",
+  "typicalDeadline": "6월 말~7월 초 학술대회 개최. 논문 마감 월은 미확인",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://kiise.or.kr/academy/main/main.fa",
+  "verifiedAt": "2026-10-21"
+}

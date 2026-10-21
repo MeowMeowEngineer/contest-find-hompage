@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "needs": [
+      "교신저자 또는 발표자로 논문 제출",
+      "학생 신분 증빙"
+    ]
+  },
+  "eligibility": "논문 제출 시점에 학생이며 교신저자 또는 발표자",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "ISAP Student Paper Award",
+  "nextDeadline": null,
+  "nextDeadlineNote": "ISAP 2027은 2027-11-09~12 태국 파타야 예정, 논문 마감 미공지. 2027년 5~6월 마감 예상(전년도 기준 추정)",
+  "organizer": "IEICE 통신 소사이어티 / ISAP 조직위",
+  "prize": null,
+  "sourceUrl": "https://www.ieice.org/cs/isap/2020/awards.html",
+  "status": "다음 회차 대기",
+  "summary": "논문을 낼 때 학생논문상에 지원하면 심사 점수로 결선자를 고르고, 결선자는 포스터 세션 발표로 최종 심사를 받는다.",
+  "type": "학생논문경진",
+  "typicalDeadline": "5~6월 논문 마감",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.ieice.org/cs/isap/",
+  "verifiedAt": "2026-10-21"
+}

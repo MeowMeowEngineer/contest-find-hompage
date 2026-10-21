@@ -1,0 +1,43 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "max": 34,
+      "ref": "2027-09-01",
+      "note": "2027년 9월 1일 기준 35세 미만"
+    },
+    "needs": [
+      "URSI 학회 정규 세션 논문 주저자",
+      "2~4쪽 요약 논문과 CV"
+    ]
+  },
+  "eligibility": "해당 연도 9월 1일 기준 35세 미만, URSI 학회 정규 세션 논문의 주저자",
+  "fields": [
+    "전자파·RF",
+    "통신·네트워크"
+  ],
+  "gradOk": true,
+  "name": "URSI Young Scientist Award",
+  "nextDeadline": null,
+  "nextDeadlineNote": "다음 대상 학회는 AT-RASC 2027(2027-05-23~28, 스페인)이며 신청 마감 미공지. 2027년 초 예상(전년도 기준 추정)",
+  "organizer": "International Union of Radio Science (URSI)",
+  "prize": "학회 등록비 면제와 숙식비 지원",
+  "sourceUrl": "https://www.ursi-gass2026.pl/youngscientist",
+  "status": "모집예정",
+  "summary": "학회 논문 제출 때 2~4쪽 요약 논문, CV, 논문 목록을 함께 낸다. 선정되면 학회 참가 지원을 받고 Radio Science Letters에 전체 논문을 내야 한다.",
+  "type": "논문상",
+  "typicalDeadline": "대상 URSI 학회의 논문 마감과 같음",
+  "typicalMonths": [],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.ursi.org/awards.php",
+  "verifiedAt": "2026-10-21"
+}

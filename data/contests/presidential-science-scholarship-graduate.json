@@ -1,0 +1,50 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학",
+      "입학예정"
+    ],
+    "fullTime": true,
+    "uni": "국내",
+    "nationality": "KR",
+    "fieldReq": [
+      "공학",
+      "자연과학"
+    ],
+    "manual": [
+      "성적 기준을 채워야 합니다(박사는 석사 성적 백분위 92 이상 등)"
+    ],
+    "needs": [
+      "한국장학재단 온라인 신청",
+      "증빙 서류"
+    ]
+  },
+  "eligibility": "대한민국 국적, 국내 대학원 자연과학·공학계열 전일제 석·박사 재학생 또는 입학예정자. 성적 기준 있음(박사는 석사 성적 백분위 92 이상 등)",
+  "fields": [
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "대통령과학장학금 (대학원)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "대학원 선발은 2026학년도에 처음 시작(석사 50명, 박사 70명 안팎). 2027년 4월 신청 예상(전년도 기준 추정)",
+  "organizer": "과학기술정보통신부·한국장학재단",
+  "prize": "석사 월 150만원(최대 4학기), 박사 월 200만원(최대 8학기)",
+  "sourceUrl": "https://cst.snu.ac.kr/news/post.php?id=cst-notice-102",
+  "status": "다음 회차 대기",
+  "summary": "한국장학재단 누리집에서 신청서와 증빙 서류를 온라인으로 낸다. 재단 심사로 석사 50명, 박사 70명 안팎을 뽑는다.",
+  "type": "펠로우십·장학",
+  "typicalDeadline": "4월 중순~하순 신청 (2026: 4/9~4/22)",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://www.kosaf.go.kr",
+  "verifiedAt": "2026-10-21"
+}

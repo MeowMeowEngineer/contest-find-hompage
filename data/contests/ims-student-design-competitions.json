@@ -1,0 +1,43 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "fullTime": true,
+    "needs": [
+      "1~4인 학생 팀",
+      "설계 접근법 초록",
+      "1명 이상 IMS 현장 참석"
+    ]
+  },
+  "eligibility": "1~4인 전일제 학생 팀, 1명 이상 IMS 현장 참석",
+  "fields": [
+    "전자파·RF",
+    "반도체·회로"
+  ],
+  "gradOk": true,
+  "name": "IEEE IMS2027 Student Design Competitions",
+  "nextDeadline": null,
+  "nextDeadlineNote": "IMS2027 과제 목록과 마감 미공지. 2027년 4월 중순 마감 예상(전년도 기준 추정)",
+  "organizer": "IEEE MTT-S 기술위원회 / IMS2027",
+  "prize": "대회별로 다름 (2026 SDC 예: 1위 1,500달러, 2위 1,000달러, 3위 500달러)",
+  "sourceUrl": "https://ims-ieee.org/technical-program-event-view/56",
+  "status": "모집예정",
+  "summary": "기술위원회가 낸 설계 과제(고효율 PA, 바이어스 티, 소형 안테나 등)마다 팀이 참가한다. 설계 접근법 초록을 내고 IMS 현장 경진일에 만든 하드웨어를 측정·평가받는다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "4월 중순 참가 신청 마감",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://ims-ieee.org/students",
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,37 @@
+{
+  "confidence": "low",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "unknown": "참가 자격이 공개 자료에서 확인되지 않았습니다"
+  },
+  "eligibility": "공고문 확인 필요",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "AI·디지털 기반 사회문제 해결 챌린지",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년 접수 끝남. 2027년 8~9월 접수 예상(전년도 기준 추정)",
+  "organizer": "과학기술정보통신부 (NIA 주관)",
+  "prize": null,
+  "sourceUrl": "https://byline.network/2025/09/15-503/",
+  "status": "다음 회차 대기",
+  "summary": "AI·디지털 기술로 사회문제를 푸는 서비스를 제안해 본선 10팀에 들면 약 9주 동안 테스트베드의 도구·데이터로 서비스를 만들고 최종 심사를 받는다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "8월 하순~9월 접수, 12월 초 본선 심사",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

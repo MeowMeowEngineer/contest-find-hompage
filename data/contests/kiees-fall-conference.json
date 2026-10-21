@@ -1,0 +1,38 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "추계학술대회 논문 제출과 발표"
+    ]
+  },
+  "eligibility": "추계학술대회 논문 제출·발표자(학생 포함)",
+  "fields": [
+    "전자파·RF"
+  ],
+  "gradOk": true,
+  "name": "한국전자파학회 정기총회 및 추계학술대회",
+  "nextDeadline": "2026-10-20",
+  "nextDeadlineNote": "2026 추계(11/26~27, 서울대)는 10/20 23시 원고 마감, 10/30 심사결과 통보. 연장 여부는 학회 공지 확인",
+  "organizer": "한국전자파학회(KIEES)",
+  "prize": null,
+  "sourceUrl": "https://www.kiees.or.kr/html/?pmode=inputList",
+  "status": "확인필요",
+  "summary": "추계학술대회에 논문을 내고 발표한다. 우수논문상이 추계에도 적용되는지와 심사 방식은 확인하지 못했다.",
+  "type": "논문상",
+  "typicalDeadline": "9월 중순~10월 하순 원고 접수 (2026: 9/14~10/20)",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://conf.kiees.or.kr/html/",
+  "verifiedAt": "2026-10-21"
+}

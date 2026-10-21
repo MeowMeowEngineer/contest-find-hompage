@@ -1,0 +1,41 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학",
+      "휴학"
+    ],
+    "needs": [
+      "AI 또는 알고리즘 부문 중 하나 선택"
+    ]
+  },
+  "eligibility": "국내외 대학(원) 재학·휴학생, 전공 무관. AI·알고리즘 부문 중복 참가 불가",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": true,
+  "name": "삼성전자 대학생 프로그래밍 챌린지 (SCPC)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제12회(2026)는 8/28 시상으로 끝남. 2027년 6월 중순~7월 초 접수 예상(전년도 기준 추정)",
+  "organizer": "삼성전자 (삼성리서치 주관)",
+  "prize": "총상금 1억 4천만원 (부문별 1등 2,000만원, 2등 1,000만원×2, 3등 400만원×5, 4등 200만원×5)",
+  "sourceUrl": "https://linkareer.com/activity/327834",
+  "status": "다음 회차 대기",
+  "summary": "AI 부문은 주어진 문제를 AI 에이전트로 푸는 방식이고(2026 주제: 에이전트 하네스 설계), 알고리즘 부문은 온라인 예선 2회 뒤 서울R&D캠퍼스 오프라인 본선 점수로 순위를 정한다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "6월 중순 접수 시작, 7월 초 마감, 8월 하순 본선",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://research.samsung.com/scpc",
+  "verifiedAt": "2026-10-21"
+}

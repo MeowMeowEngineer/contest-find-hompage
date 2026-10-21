@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "국방기술거래장터 등록 기술을 활용한 사업화 아이디어"
+    ]
+  },
+  "eligibility": "학생부: 대학생·대학원생(휴학생 포함)",
+  "fields": [
+    "국방",
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "국방기술을 활용한 창업경진대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년 대회는 7/31 본선으로 끝남. 2027년 6월 접수 예상(전년도 기준 추정)",
+  "organizer": "방위사업청",
+  "prize": "상금 미확인. 수상팀 기술이전 기본기술료 면제, MVP 제작비 지원",
+  "sourceUrl": "https://www.venturesquare.net/announcement/1088719",
+  "status": "다음 회차 대기",
+  "summary": "국방기술거래장터에 등록된 국방과학기술 하나를 골라 사업화 아이디어를 낸다. 2026년에는 98팀 중 12팀이 본선 발표 심사에 올랐다.",
+  "type": "아이디어·특허 공모",
+  "typicalDeadline": "6월 한 달 접수, 7월 말 본선",
+  "typicalMonths": [
+    6
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

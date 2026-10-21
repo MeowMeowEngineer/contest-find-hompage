@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T12:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "nationality": "KR",
+    "needs": [
+      "개인 또는 5인 이내 팀",
+      "데이터안심구역 3회 이상 방문"
+    ]
+  },
+  "eligibility": "국민 누구나, 개인 또는 5인 이내 팀",
+  "fields": [
+    "AI·데이터"
+  ],
+  "gradOk": true,
+  "name": "데이터+AI 혁신 챌린지 (데이터안심구역 부문)",
+  "nextDeadline": "2026-10-22",
+  "nextDeadlineNote": "데이터안심구역 부문은 10/22 18시까지 신청·제안서 접수, 예선 10/28~29, 본선 11/18~19. 빅콘테스트·데이터 문제해결 부문 마감은 미확인",
+  "organizer": "과학기술정보통신부 (NIA·K-DATA·KAIT 주관)",
+  "prize": "데이터안심구역 부문 대상 300만원, 최우수 각 100만원, 우수 각 30만원",
+  "sourceUrl": "https://eiec.kdi.re.kr/policy/materialView.do?num=286153",
+  "status": "모집중",
+  "summary": "외부 반출이 안 되는 미개방 데이터를 데이터안심구역에 3회 이상 방문해 분석하고 아이디어 제안서를 낸다. 예선과 본선 발표로 순위를 정한다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "9월 1일 통합공고 후 부문별 마감 (데이터안심구역 10/22)",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T12:00:00+09:00",
+  "url": "https://dsz.kdata.or.kr",
+  "verifiedAt": "2026-10-21"
+}
