@@ -1,16 +1,54 @@
 {
-  "name": "대학원 공모전 레이더",
+  "name": "공모 레이더",
   "site_url": "https://gongmo-radar.vercel.app",
   "mode": "preview",
   "lang": "ko",
-  "tagline": "대학원생이 낼 수 있는 학회 논문상, 기업 논문상, AI 챌린지, 설계 경진대회, 펠로우십의 마감일과 참가 자격을 모았습니다.",
+  "tagline": "청소년부터 어르신까지, 나이와 신분에 맞는 공모전·대회·장학금의 마감일과 참가 자격을 모았습니다.",
   "types": {
-    "논문상": {"slug": "paper-awards", "label": "논문상"},
-    "학생논문경진": {"slug": "student-paper-contests", "label": "학생논문 경진대회"},
-    "AI·데이터 챌린지": {"slug": "ai-data-challenges", "label": "AI·데이터 챌린지"},
-    "설계·개발 경진": {"slug": "design-contests", "label": "설계·개발 경진대회"},
-    "아이디어·특허 공모": {"slug": "idea-patent-contests", "label": "아이디어·특허 공모전"},
-    "펠로우십·장학": {"slug": "fellowships", "label": "펠로우십·장학금"}
+    "논문상": {
+      "slug": "paper-awards",
+      "label": "논문상"
+    },
+    "학생논문경진": {
+      "slug": "student-paper-contests",
+      "label": "학생논문 경진대회"
+    },
+    "AI·데이터 챌린지": {
+      "slug": "ai-data-challenges",
+      "label": "AI·데이터 챌린지"
+    },
+    "설계·개발 경진": {
+      "slug": "design-contests",
+      "label": "설계·개발 경진대회"
+    },
+    "아이디어·특허 공모": {
+      "slug": "idea-patent-contests",
+      "label": "아이디어·특허 공모전"
+    },
+    "펠로우십·장학": {
+      "slug": "fellowships",
+      "label": "펠로우십·장학금"
+    },
+    "문학·수기": {
+      "slug": "literature",
+      "label": "문학·수기 공모전"
+    },
+    "영상·사진": {
+      "slug": "video-photo",
+      "label": "영상·사진 공모전"
+    },
+    "디자인·미술": {
+      "slug": "design-art",
+      "label": "디자인·미술 공모전"
+    },
+    "창업·사업화": {
+      "slug": "startup",
+      "label": "창업경진대회"
+    },
+    "과학·탐구 대회": {
+      "slug": "science-fairs",
+      "label": "과학·탐구 대회"
+    }
   },
   "fields": {
     "전자파·RF": "rf-microwave",
@@ -20,10 +58,101 @@
     "전기·전력": "power-energy",
     "컴퓨터·SW": "computer-software",
     "과학기술 전반": "science-general",
-    "국방": "defense"
+    "국방": "defense",
+    "문화·예술": "culture-arts",
+    "사회·정책": "society-policy",
+    "환경": "environment",
+    "관광·지역": "tourism-local",
+    "복지·건강": "welfare-health",
+    "경제·금융": "economy-finance",
+    "교육": "education"
   },
   "_notes": {
     "site_url": "2026-10-21 운영자: webforai.kr는 다른 사람 도메인이라 쓰지 않는다. 본인이 가질 수 있는 Vercel 기본 주소로 한다. 도메인을 사면 이 값 하나만 바꾸고 다시 빌드한다.",
-    "mode": "preview는 모든 페이지 noindex + robots Disallow + vercel.json X-Robots-Tag. 공개 전환은 운영자가 정한다(CLAUDE.md '공개 전환')."
-  }
+    "mode": "preview는 모든 페이지 noindex + robots Disallow + vercel.json X-Robots-Tag. 공개 전환은 운영자가 정한다(CLAUDE.md '공개 전환').",
+    "name": "2026-10-21 운영자: 대학원생만이 아니라 모든 연령대(청소년·취준생·어르신 등)를 모은다. 이름을 주소(gongmo-radar)와 맞춰 '공모 레이더'로 바꿨다.",
+    "audiences": "대상별 페이지(/for/<slug>/)는 personas를 elig 엔진으로 판별해 불가가 아닌 공모전을 모은다. 나이는 빌드 날짜 기준."
+  },
+  "audiences": [
+    {
+      "slug": "youth",
+      "label": "청소년",
+      "h1": "초·중·고등학생이 참가할 수 있는 공모전",
+      "personas": [
+        {
+          "role": "초등학생",
+          "age": 11
+        },
+        {
+          "role": "중학생",
+          "age": 14
+        },
+        {
+          "role": "고등학생",
+          "age": 17
+        }
+      ]
+    },
+    {
+      "slug": "university",
+      "label": "대학생",
+      "h1": "대학생이 참가할 수 있는 공모전",
+      "personas": [
+        {
+          "role": "대학생",
+          "age": 22
+        }
+      ]
+    },
+    {
+      "slug": "graduate",
+      "label": "대학원생",
+      "h1": "대학원생이 참가할 수 있는 공모전·논문상·펠로우십",
+      "personas": [
+        {
+          "role": "대학원생",
+          "gradLevel": "석사",
+          "age": 27
+        },
+        {
+          "role": "대학원생",
+          "gradLevel": "박사",
+          "age": 30
+        }
+      ]
+    },
+    {
+      "slug": "job-seekers",
+      "label": "청년·취준생",
+      "h1": "청년·취업준비생이 참가할 수 있는 공모전",
+      "personas": [
+        {
+          "role": "취업준비생",
+          "age": 26
+        }
+      ]
+    },
+    {
+      "slug": "workers",
+      "label": "직장인·일반",
+      "h1": "직장인과 일반인이 참가할 수 있는 공모전",
+      "personas": [
+        {
+          "role": "직장인",
+          "age": 40
+        }
+      ]
+    },
+    {
+      "slug": "seniors",
+      "label": "어르신·시니어",
+      "h1": "어르신·시니어가 참가할 수 있는 공모전",
+      "personas": [
+        {
+          "role": "은퇴·무직",
+          "age": 68
+        }
+      ]
+    }
+  ]
 }

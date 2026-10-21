@@ -8,17 +8,20 @@ import re
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 KST = dt.timezone(dt.timedelta(hours=9))
 
-TYPES = ["논문상", "학생논문경진", "AI·데이터 챌린지", "설계·개발 경진", "아이디어·특허 공모", "펠로우십·장학"]
-FIELDS = ["전자파·RF", "반도체·회로", "통신·네트워크", "AI·데이터", "전기·전력", "컴퓨터·SW", "과학기술 전반", "국방"]
+TYPES = ["논문상", "학생논문경진", "AI·데이터 챌린지", "설계·개발 경진", "아이디어·특허 공모", "펠로우십·장학",
+         "문학·수기", "영상·사진", "디자인·미술", "창업·사업화", "과학·탐구 대회"]
+FIELDS = ["전자파·RF", "반도체·회로", "통신·네트워크", "AI·데이터", "전기·전력", "컴퓨터·SW", "과학기술 전반", "국방",
+          "문화·예술", "사회·정책", "환경", "관광·지역", "복지·건강", "경제·금융", "교육"]
 STATUS = ["모집중", "모집예정", "다음 회차 대기", "확인필요"]
 CYCLES = ["연 1회", "연 2회", "상시", "비정기"]
-LEVELS = ["학부", "석사", "박사", "박사후", "일반"]
+LEVELS = ["초등", "중등", "고등", "학부", "석사", "박사", "박사후", "일반"]
+REGIONS = ["서울", "부산", "대구", "인천", "광주", "대전", "울산", "세종", "경기", "강원", "충북", "충남", "전북", "전남", "경북", "경남", "제주"]
 WEEKDAYS = "월화수목금토일"
 
 REQUIRED = ["name", "organizer", "type", "fields", "summary", "verifiedAt", "elig"]
 ELIG_KEYS = {"who", "status", "fullTime", "uni", "regions", "nationality", "foreignNote", "age", "unemployed",
              "generalUnemployed", "employed", "fieldReq", "newStudent", "members", "manual", "needs", "unknown",
-             "limitedFor"}
+             "limitedFor", "residence"}
 
 
 def load_site(root=ROOT):

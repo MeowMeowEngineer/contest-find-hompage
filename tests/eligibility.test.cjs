@@ -78,3 +78,48 @@ test("모든 공모전이 기본 프로필로 판별된다", () => {
     if (r.verdict === "불가") assert.ok(r.fail.length > 0, f);
   }
 });
+
+test("모든 연령·신분 프로필", () => {
+  const P = (x) => Object.assign({ nationality: "KR", residence: "" }, x);
+  const w = (id, p) => E.judge(contest(id), P(p), "2026-10-21").verdict;
+  assert.equal(w("liner-scholar-research-contest", { role: "고등학생", birth: "2009-05-01" }), "가능");
+  assert.equal(w("liner-scholar-research-contest", { role: "초등학생", birth: "2015-05-01" }), "불가");
+  assert.equal(w("open-source-developer-contest", { role: "중학생" }), "가능");
+  assert.equal(w("kcs-best-paper", { role: "고등학생" }), "불가");
+  assert.equal(w("kcs-best-paper", { role: "은퇴·무직", birth: "1958-01-01" }), "가능");
+  assert.equal(w("lg-aimers", { role: "취업준비생", birth: "2000-05-01" }), "가능");
+  assert.equal(w("lg-aimers", { role: "직장인", birth: "2000-05-01" }), "불가");
+  assert.equal(w("baram-wind-power-forecast", { role: "취업준비생" }), "가능");
+  assert.equal(w("baram-wind-power-forecast", { role: "직장인" }), "불가");
+});
+
+test("국방 AI 나이는 다음 회차 예상 마감일 기준", () => {
+  assert.equal(v("mnd-defense-ai-competition", { birth: "1992-03-01" }), "불가");
+  assert.equal(v("mnd-defense-ai-competition", { birth: "2008-03-01" }), "가능");
+});
+
+test("학생이 아니면 대학 조건을 보지 않는다(전파분야 논문공모)", () => {
+  assert.equal(v("kca-kiees-radio-paper-contest", { level: "박사후" }), "조건부");
+  assert.equal(v("kca-kiees-radio-paper-contest", { level: "박사후", uniCountry: "해외" }), "조건부");
+});
+
+test("거주 지역 조건", () => {
+  const c = { id: "t", elig: { who: E.ALL_LEVELS, residence: ["서울"] } };
+  assert.equal(E.judge(c, { role: "직장인" }, "2026-10-21").verdict, "조건부");
+  assert.equal(E.judge(c, { role: "직장인", residence: "서울" }, "2026-10-21").verdict, "가능");
+  assert.equal(E.judge(c, { role: "직장인", residence: "경기" }, "2026-10-21").verdict, "불가");
+});
+
+test("입학 연월 표기", () => {
+  assert.equal(E.normYm("2025.3"), "2025-03");
+  assert.equal(E.normYm("2025/03"), "2025-03");
+  assert.equal(E.normYm("2025년 9월"), "2025-09");
+  assert.equal(E.normYm("2025-13"), "");
+  assert.equal(v("kwanjeong-domestic-grad-scholarship", { entry: "2025.03" }), "불가");
+});
+
+test("예전 프로필(level 기반)을 읽는다", () => {
+  const p = E.normalize({ level: "석사", status: "졸업", employed: false });
+  assert.equal(p.role, "취업준비생");
+  assert.equal(E.normalize({ level: "박사" }).role, "대학원생");
+});

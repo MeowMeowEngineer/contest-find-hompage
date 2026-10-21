@@ -69,8 +69,17 @@ class BuildTest(unittest.TestCase):
 
     def test_check_page_has_form(self):
         html = (self.out / "check" / "index.html").read_text(encoding="utf8")
-        for fid in ("p-level", "p-status", "p-uniRegion", "p-birth", "p-entry", "p-fullTime", "p-employed"):
+        for fid in ("p-role", "p-birth", "p-residence", "p-nationality", "p-status", "p-uniRegion", "p-entry", "p-fullTime", "p-employed"):
             self.assertIn(f'id="{fid}"', html)
+
+    def test_audience_pages(self):
+        for a in self.cfg["audiences"]:
+            self.assertTrue((self.out / "for" / a["slug"] / "index.html").exists(), a["slug"])
+
+    def test_rows_link_to_official_pages(self):
+        home = (self.out / "index.html").read_text(encoding="utf8")
+        linked = [c for c in self.contests if c.get("url") or c.get("sourceUrl")]
+        self.assertEqual(home.count('data-out="'), len(linked))
 
 
 class ProductionTest(unittest.TestCase):

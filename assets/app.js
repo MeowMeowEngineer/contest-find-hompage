@@ -140,11 +140,12 @@
     });
     if (profile) { var vf = $("[data-needs-profile]"); if (vf) vf.hidden = false; }
     var params = new URLSearchParams(location.search);
-    ["type", "field"].forEach(function (k) { if (params.get(k)) $("#f-" + k).value = params.get(k); });
+    ["type", "field", "aud"].forEach(function (k) { if (params.get(k) && $("#f-" + k)) $("#f-" + k).value = params.get(k); });
 
     function apply() {
       var q = $("#f-q").value.trim().toLowerCase();
       var type = $("#f-type").value, field = $("#f-field").value;
+      var aud = $("#f-aud") ? $("#f-aud").value : "";
       var vsel = $("#f-verdict") ? $("#f-verdict").value : "";
       var shown = 0;
       rows.forEach(function (r) {
@@ -153,6 +154,7 @@
         var ok = (!q || r.getAttribute("data-q").indexOf(q) >= 0) &&
           (!type || r.getAttribute("data-type") === type) &&
           (!field || r.getAttribute("data-fields").split("|").indexOf(field) >= 0) &&
+          (!aud || (r.getAttribute("data-aud") || "").split(" ").indexOf(aud) >= 0) &&
           (!vsel || !v || (vsel === "ok" ? v === "가능" : v !== "불가"));
         r.hidden = !ok;
         if (ok) shown += 1;
@@ -173,10 +175,11 @@
   }
 
   /* ---------- 판별 페이지 ---------- */
-  var FIELDS = ["university", "level", "status", "uniCountry", "uniRegion", "field", "nationality", "birth", "entry"];
+  var FIELDS = ["role", "gradLevel", "university", "status", "uniCountry", "uniRegion", "field", "residence", "nationality", "birth", "entry"];
   function readForm(form) {
     var p = {};
     FIELDS.forEach(function (k) { p[k] = $("#p-" + k, form).value; });
+    p.entry = E.normYm(p.entry);
     p.fullTime = $("#p-fullTime", form).checked;
     p.employed = $("#p-employed", form).checked;
     p.memberships = $all('input[name="member"]:checked', form).map(function (i) { return i.value; });
@@ -187,6 +190,11 @@
     $("#p-fullTime", form).checked = !!p.fullTime;
     $("#p-employed", form).checked = !!p.employed;
     $all('input[name="member"]', form).forEach(function (i) { i.checked = p.memberships.indexOf(i.value) >= 0; });
+    showStudentFields(form, p.role);
+  }
+  function showStudentFields(form, role) {
+    $("[data-uni]", form).hidden = role !== "대학생" && role !== "대학원생";
+    $("[data-grad]", form).hidden = role !== "대학원생";
   }
   function whenText(c) {
     var t = timing(c);
@@ -219,8 +227,8 @@
       var root = $("[data-results]");
       root.textContent = "";
       [["가능", "참가할 수 있는 공모전", "공고의 참가 자격을 모두 채웁니다."],
-       ["조건부", "확인이 필요한 공모전", "학회 가입, 대학 추천, 생년월일 입력처럼 한 가지를 더 확인하면 참가할 수 있습니다."],
-       ["불가", "지금은 참가할 수 없는 공모전", "과정, 국적, 나이 같은 조건이 맞지 않습니다."]].forEach(function (g) {
+       ["조건부", "확인이 필요한 공모전", "생년월일 입력, 학교 추천, 학회 가입처럼 한 가지를 더 확인하면 참가할 수 있습니다."],
+       ["불가", "지금은 참가할 수 없는 공모전", "신분, 나이, 거주 지역, 국적 같은 조건이 맞지 않습니다."]].forEach(function (g) {
         var sec = el("section", "group");
         sec.id = "g-" + g[0];
         sec.appendChild(el("h2", null, g[1] + " " + groups[g[0]].length + "건"));
@@ -236,7 +244,16 @@
           var w = whenText(c);
           top.appendChild(el("span", "res-when " + w.cls, w.text));
           li.appendChild(top);
-          li.appendChild(el("p", "res-meta", c.organizer + " · " + c.type));
+          var meta = el("p", "res-meta", c.organizer + " · " + c.type + " ");
+          var href = c.url || c.sourceUrl;
+          if (href) {
+            var out = el("a", "out", c.url ? "공식 페이지 ↗" : "공고 보기 ↗");
+            out.href = href;
+            out.target = "_blank";
+            out.rel = "noopener";
+            meta.appendChild(out);
+          }
+          li.appendChild(meta);
           if (r.fail.length) li.appendChild(reasonList(r.fail, "r-no"));
           if (r.cond.length) li.appendChild(reasonList(r.cond, "r-cond"));
           if (g[0] === "가능" && r.needs.length) li.appendChild(el("p", "res-needs", "준비할 것: " + r.needs.join(", ")));
@@ -248,6 +265,7 @@
     }
     function onChange() {
       profile = E.normalize(readForm(form));
+      showStudentFields(form, profile.role);
       saveProfile(profile);
       note.hidden = true;
       render();
@@ -264,8 +282,19 @@
     render();
   }
 
+  function setupCalendarFilter() {
+    var sel = $("#c-aud");
+    if (!sel) return;
+    sel.addEventListener("change", function () {
+      $all(".cal tbody tr").forEach(function (tr) {
+        tr.hidden = !!sel.value && (tr.getAttribute("data-aud") || "").split(" ").indexOf(sel.value) < 0;
+      });
+    });
+  }
+
   function start() {
     paintDdays();
+    setupCalendarFilter();
     var profile = loadProfile();
     var needData = profile || $("[data-check-form]");
     var listPromise = needData ? contests() : Promise.resolve(null);

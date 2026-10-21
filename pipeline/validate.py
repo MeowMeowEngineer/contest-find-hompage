@@ -11,8 +11,8 @@ import re
 import sys
 from html.parser import HTMLParser
 
-from .common import (CYCLES, ELIG_KEYS, FIELDS, LEVELS, REQUIRED, ROOT, STATUS, TYPES, load_contests, load_site,
-                     parse_date)
+from .common import (CYCLES, ELIG_KEYS, FIELDS, LEVELS, REGIONS, REQUIRED, ROOT, STATUS, TYPES, load_contests,
+                     load_site, parse_date)
 
 DESC_WARN = 80     # 네이버가 80자 넘는 설명에 경고를 낸다
 DESC_MAX = 160
@@ -56,6 +56,11 @@ def check_data(contests, cfg):
         for lv in e.get("who", []):
             if lv not in LEVELS:
                 errors.append(f"{cid}: elig.who 값 {lv}")
+        for r in (e.get("residence") or []) + (e.get("regions") or []):
+            if r not in REGIONS:
+                errors.append(f"{cid}: 시·도 이름 {r}")
+        if c.get("type") in TYPES and c["type"] not in cfg["types"]:
+            errors.append(f"{cid}: site.json types에 {c['type']} 주소가 없음")
         if "age" in e and not ({"min", "max"} & set(e["age"])):
             errors.append(f"{cid}: elig.age에 min이나 max가 필요")
         if e.get("age", {}).get("ref") and not parse_date(e["age"]["ref"]):

@@ -88,7 +88,18 @@ main { padding-bottom: 72px; }
 .row-name { color: var(--ink); font-weight: 700; font-size: 17px; text-decoration: none; }
 .row-name:hover { color: var(--blue); text-decoration: underline; }
 .row-meta, .row-prize { color: var(--sub); font-size: 14px; }
-.verdict { grid-area: verdict; }
+.side { grid-area: verdict; display: grid; justify-items: end; gap: 8px; align-content: start; }
+.out { font-size: 14px; font-weight: 700; white-space: nowrap; text-decoration: none; padding: 6px 12px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); color: var(--blue); }
+.out:hover { border-color: var(--blue); }
+.res-meta .out { margin-left: 6px; padding: 2px 10px; font-size: 13px; }
+.due .btn { justify-self: start; margin-top: 6px; }
+.auds { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; }
+.auds a { display: grid; gap: 2px; padding: 16px 18px; border-radius: var(--r-lg); background: var(--blue-soft); color: var(--ink); text-decoration: none; }
+.auds a:hover { background: var(--blue); color: #fff; }
+.auds b { font-size: 17px; }
+.auds span { font-size: 14px; color: inherit; opacity: .75; }
+fieldset.uni { border: 0; margin: 0; padding: 14px 0 0; border-top: 1px solid var(--line); display: grid; gap: 14px; }
+fieldset.uni legend { font-size: 14px; color: var(--sub); font-weight: 700; padding: 0 0 6px; }
 .vbadge { display: inline-block; padding: 4px 12px; border-radius: 999px; font-size: 13px; font-weight: 700; white-space: nowrap; }
 .v-ok { background: var(--ok-soft); color: var(--ok); }
 .v-cond { background: var(--warn-soft); color: var(--warn); }
@@ -173,6 +184,9 @@ main { padding-bottom: 72px; }
 
 .foot { border-top: 1px solid var(--line); padding: 28px 0 40px; color: var(--sub); font-size: 14px; }
 
+@media (max-width: 1000px) {
+  .auds { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
 @media (max-width: 900px) {
   .check-grid { grid-template-columns: minmax(0, 1fr); }
   .check-form { position: static; }
@@ -183,6 +197,8 @@ main { padding-bottom: 72px; }
   .upcoming a { grid-template-columns: 64px minmax(0, 1fr); }
   .up-date { display: none; }
   .row { grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "when verdict" "what what"; padding: 16px; }
+  .side { grid-auto-flow: column; align-items: center; }
+  .auds { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .when { grid-auto-flow: column; justify-content: start; align-items: baseline; gap: 10px; }
   .detail-grid { grid-template-columns: minmax(0, 1fr); }
   .facts { padding: 4px 18px; }
