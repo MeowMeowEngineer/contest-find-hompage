@@ -1,0 +1,44 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "min": 19,
+      "max": 39
+    },
+    "needs": [
+      "정책 제안서",
+      "개인 또는 3인 이하 팀"
+    ]
+  },
+  "eligibility": "만 19~39세 전국 청년, 개인 또는 3인 이하 팀",
+  "fields": [
+    "사회·정책",
+    "경제·금융"
+  ],
+  "gradOk": true,
+  "name": "'내가 대통령이라면' 청년 정책 아이디어 공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "다음 회차 개최 여부 미확인",
+  "organizer": "대통령 직속 국민경제자문회의",
+  "prize": "총상금 1,300만원, 7건 시상(대상 500만원 등), 대상 수상자는 '미래세대 정책자문단' 위촉",
+  "sourceUrl": "https://linkareer.com/activity/325399",
+  "status": "확인필요",
+  "summary": "취업·생활·교육 3대 분야에서 청년의 삶을 개선할 정책 아이디어를 내면 심사해 7건을 시상합니다.",
+  "type": "아이디어·특허 공모",
+  "typicalDeadline": "2026년 5월 28일~7월 8일 접수(확인된 첫 회차)",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

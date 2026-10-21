@@ -1,0 +1,45 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "min": 19,
+      "max": 39
+    },
+    "manual": [
+      "한국 국적 또는 외국인 거소증·재외국민 등록증 소지자여야 합니다"
+    ],
+    "needs": [
+      "영화 파일 또는 뮤지컬 공연 영상"
+    ]
+  },
+  "eligibility": "만 19~39세 청년 창작자가 참여한 작품(개인·단체)",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": true,
+  "name": "대한민국 청년예술상(영화·뮤지컬)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 회차는 7~8월 접수 예상(전년도 기준 추정)",
+  "organizer": "대한민국 청년의날 행사(사단법인 청년과미래 등)",
+  "prize": null,
+  "sourceUrl": "https://www.theteams.kr/activities/page/337395/lc",
+  "status": "다음 회차 대기",
+  "summary": "전년도 1월 이후 제작·공연된 영화나 창작뮤지컬 공연 영상을 내면 심사해 작품상·연출상 등을 줍니다. 2026년 영화 부문에는 639편이 출품됐습니다.",
+  "type": "영상·사진",
+  "typicalDeadline": "매년 7~8월 접수(2026년 7월 15일~8월 15일)",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

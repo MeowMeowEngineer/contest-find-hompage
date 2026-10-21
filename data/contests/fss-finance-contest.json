@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부"
+    ],
+    "manual": [
+      "대학생 2인 이상 5인 이내 팀이어야 합니다"
+    ],
+    "needs": [
+      "e-금융교육센터 참여 신청",
+      "작품(문서·동영상·PPT·카드뉴스·웹툰 중 택1)"
+    ]
+  },
+  "eligibility": "대학생으로 구성된 2인 이상 5인 이내 팀(대학생 금융 콘테스트 분야)",
+  "fields": [
+    "경제·금융",
+    "교육"
+  ],
+  "gradOk": false,
+  "name": "금융감독원 금융공모전(대학생 금융 콘테스트)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제22회(2027)는 6~9월 접수 예상(전년도 기준 추정)",
+  "organizer": "금융감독원",
+  "prize": null,
+  "sourceUrl": "https://www.theteams.kr/activities/page/329022/lc",
+  "status": "다음 회차 대기",
+  "summary": "금융 관련 주제를 문서·동영상·PPT·카드뉴스·웹툰 중 한 형식으로 만듭니다. e-금융교육센터에서 신청하고 작품을 내면 심사해 시상합니다.",
+  "type": "아이디어·특허 공모",
+  "typicalDeadline": "매년 6~9월 접수(제21회 2026년 6월 17일~9월 2일)",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.fss.or.kr/edu",
+  "verifiedAt": "2026-10-21"
+}

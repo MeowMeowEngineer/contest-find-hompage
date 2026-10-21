@@ -1,0 +1,35 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "고등"
+    ],
+    "needs": [
+      "1~4인 팀",
+      "본인 명의 재학증명서 PDF"
+    ]
+  },
+  "eligibility": "정보보호에 관심 있는 국내 고등학교 재학생, 1~4인 팀",
+  "fields": [
+    "컴퓨터·SW"
+  ],
+  "gradOk": false,
+  "name": "사이버 가디언즈 CMX 대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2026년에 처음 열림. 2027년 개최 여부 미정",
+  "organizer": "과학기술정보통신부 주최, 한국정보보호산업협회(KISIA) 운영",
+  "prize": "최우수 1팀, 우수 2팀, 장려 3팀, 특별상 2팀 등 8팀에 협회장상과 부상",
+  "sourceUrl": "https://byline.network/2026/07/40/",
+  "status": "확인필요",
+  "summary": "게임형 CTF(깃발 뺏기) 해킹·보안 문제를 온라인 예선에서 풀고, 상위 25팀이 서울 본선에서 대회 문제와 비공개 임무로 평가받습니다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "2026년(첫 개최): 8.5 신청 마감, 8.8 온라인 예선, 8.18 오프라인 본선",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://cyberguardians-cmx.kr",
+  "verifiedAt": "2026-10-21"
+}

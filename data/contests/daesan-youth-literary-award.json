@@ -1,0 +1,40 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "중등",
+      "고등"
+    ],
+    "manual": [
+      "학교장 또는 소속 단체장 추천서가 필요합니다"
+    ],
+    "needs": [
+      "시 5편 또는 소설 원고지 60장 안팎",
+      "학교장·단체장 추천서",
+      "여름 문예캠프 참가"
+    ]
+  },
+  "eligibility": "중·고등학생 및 같은 연령대 청소년(시·소설 부문)",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "대산청소년문학상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 제35회는 5월 말 마감 예상(전년도 기준 추정)",
+  "organizer": "대산문화재단",
+  "prize": "부문·학년별 금상 150만원, 은상 70만원, 동상 50만원 장학금(2026년 28명, 총 2천만원)",
+  "sourceUrl": "https://dazabi.com/insurance_magazine/article.php?id=10708",
+  "status": "다음 회차 대기",
+  "summary": "시 5편 또는 소설 원고지 60장 안팎을 온라인으로 내면 약 70명의 수상 후보를 뽑습니다. 여름 문예캠프 백일장 작품까지 합쳐 최종 수상자를 정합니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "매년 5월 하순 마감(2026년 제34회: 5.29), 여름 문예캠프 후 최종 선정",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.daesan.or.kr",
+  "verifiedAt": "2026-10-21"
+}

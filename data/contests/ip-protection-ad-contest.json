@@ -1,0 +1,42 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "nationality": "KR",
+    "needs": [
+      "숏폼 영상 또는 포스터"
+    ]
+  },
+  "eligibility": "대한민국 국민 누구나(개인 또는 3인 이내 팀)",
+  "fields": [
+    "사회·정책"
+  ],
+  "gradOk": true,
+  "name": "2026 지식재산 보호 광고 공모전",
+  "nextDeadline": "2026-11-02",
+  "nextDeadlineNote": "2026년 회차 접수 중",
+  "organizer": "지식재산처 주최, 한국지식재산보호원 주관",
+  "prize": null,
+  "sourceUrl": "https://thinkyou.co.kr/contest/67294/",
+  "status": "모집중",
+  "summary": "'IP CM, 내 삶에 가장 가까운 IP'를 주제로 지식재산처 특별사법경찰, 기술 유출·탈취 예방 등 세 가지 주제 중 하나를 골라 숏폼 영상이나 포스터를 만듭니다. 출품 수 제한은 없습니다.",
+  "type": "영상·사진",
+  "typicalDeadline": "2026년은 2026-10-06~11-02 접수",
+  "typicalMonths": [
+    11
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

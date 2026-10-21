@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등"
+    ],
+    "age": {
+      "max": 18
+    },
+    "needs": [
+      "AI 활용 디지털 콘텐츠 작품",
+      "개인 또는 3인 이내 팀"
+    ]
+  },
+  "eligibility": "전국 초·중·고 재학생, 만 18세 이하 청소년(개인 또는 3인 이내 팀)",
+  "fields": [
+    "AI·데이터",
+    "컴퓨터·SW"
+  ],
+  "gradOk": false,
+  "name": "초·중·고 AI 디지털콘텐츠 경진대회",
+  "nextDeadline": "2026-10-25",
+  "nextDeadlineNote": "10월 25일(일) 23:59 마감. 10.28 결과·고등부 본선 진출팀 발표, 11.3 현장 본선",
+  "organizer": "연암공과대학교",
+  "prize": null,
+  "sourceUrl": "https://thinkyou.co.kr/mobile/contest/67366/",
+  "status": "모집중",
+  "summary": "AI를 활용한 디지털 콘텐츠를 만들어 온라인으로 접수합니다. 초·중등부는 예선 결과로 시상하고, 고등부는 본선 진출팀이 11월 3일 경남 현장 본선에서 겨룹니다.",
+  "type": "AI·데이터 챌린지",
+  "typicalDeadline": "2026년: 10.5~10.25 23:59 접수·예선",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://thinkai.yc.ac.kr",
+  "verifiedAt": "2026-10-21"
+}

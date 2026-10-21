@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "비정기",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "국민연금 가입자·수급자 또는 기초연금 수급자여야 합니다"
+    ],
+    "needs": [
+      "생활 수기 2천 자 안팎"
+    ]
+  },
+  "eligibility": "국민연금 가입자·수급자 및 기초연금 수급자",
+  "fields": [
+    "복지·건강",
+    "경제·금융"
+  ],
+  "gradOk": true,
+  "name": "국민연금 국민 참여 공모전 '생활 속 연금 이야기'",
+  "nextDeadline": null,
+  "nextDeadlineNote": "매년 열리는지 확인 안 됨",
+  "organizer": "국민연금공단",
+  "prize": "분야별 최우수상 보건복지부 장관상과 100만원, 우수상 5명 각 50만원, 장려상 24명 각 30만원",
+  "sourceUrl": "https://news.jkn.co.kr/post/798904",
+  "status": "확인필요",
+  "summary": "'생활 속 연금 이야기'를 주제로 2천 자 안팎의 생활 수기 등을 공모전 홈페이지에 내면 분야별로 최우수·우수·장려상을 고릅니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "2026년 회차: 6월 5일~7월 31일 접수",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.npscontest.co.kr",
+  "verifiedAt": "2026-10-21"
+}

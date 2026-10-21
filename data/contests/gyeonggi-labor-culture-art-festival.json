@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "경기도에 살거나 경기도 소재 사업장에서 일하는 노동자여야 합니다"
+    ],
+    "needs": [
+      "분야별 출품작",
+      "온라인 참가 신청"
+    ]
+  },
+  "eligibility": "경기도 소재 사업장 노동자, 경기도민(다른 지역 사업장 근무자 포함), 장애인 노동자·외국인 노동자 등",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": true,
+  "name": "경기노동문화예술제",
+  "nextDeadline": "2026-10-02",
+  "nextDeadlineNote": "제32회 공고 전. 2027년 7월 접수 시작, 10월 초 마감 예상(전년도 기준 추정)",
+  "organizer": "한국노총 경기지역본부",
+  "prize": null,
+  "sourceUrl": "https://www.theteams.kr/activities/page/332271/lc",
+  "status": "다음 회차 대기",
+  "summary": "일과 일터를 주제로 한 공연예술·영상예술·시각예술·사진·문학 작품을 공식 홈페이지에서 분야별로 신청해 냅니다.",
+  "type": "영상·사진",
+  "typicalDeadline": "매년 7~10월 접수. 제31회(2026년)는 2026-07-01~10-02, 시상식 2026-11-25",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://gglcaf.co.kr",
+  "verifiedAt": "2026-10-21"
+}

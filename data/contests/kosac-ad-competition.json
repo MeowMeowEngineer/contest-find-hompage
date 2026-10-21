@@ -1,0 +1,44 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사"
+    ],
+    "status": [
+      "재학"
+    ],
+    "uni": "국내",
+    "manual": [
+      "지도교수를 선임한 2~5인 팀이어야 합니다"
+    ],
+    "needs": [
+      "광고 캠페인 기획안"
+    ]
+  },
+  "eligibility": "2년제 이상 대학·대학원 재학생으로, 지도교수를 선임한 2~5인 팀",
+  "fields": [
+    "문화·예술",
+    "사회·정책"
+  ],
+  "gradOk": true,
+  "name": "대한민국 대학생 광고대회(KOSAC)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 회차는 5월 접수 예상(전년도 기준 추정)",
+  "organizer": "문화체육관광부 주최, 한국광고총연합회 주관",
+  "prize": null,
+  "sourceUrl": "https://thinkyou.co.kr/contest/52610/",
+  "status": "다음 회차 대기",
+  "summary": "주최 측이 낸 캠페인 과제 중 하나를 골라 팀이 광고 캠페인 기획안을 냅니다. 예심과 본심을 거쳐 수상작을 정합니다.",
+  "type": "아이디어·특허 공모",
+  "typicalDeadline": "매년 5월 중순 온라인 접수(2025년 5월 7~15일)",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://kosac.ad.co.kr",
+  "verifiedAt": "2026-10-21"
+}

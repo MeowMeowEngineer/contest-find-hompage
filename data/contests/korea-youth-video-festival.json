@@ -1,0 +1,40 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "중등",
+      "고등"
+    ],
+    "age": {
+      "min": 13,
+      "max": 18,
+      "ref": "2027-12-31"
+    },
+    "needs": [
+      "영상 작품 파일(최근 1년 안에 완성)"
+    ]
+  },
+  "eligibility": "중1~고3 연령 청소년(2026년: 2008~2013년생), 팀은 전원 같은 연령대",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "대한민국청소년영상대전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 제25회는 7~9월 접수 예상(전년도 기준 추정)",
+  "organizer": "수원시청소년청년재단 주최, 수원청소년문화센터 주관",
+  "prize": "장관상·교육감상·수원시장상 등 13개 부문 시상",
+  "sourceUrl": "https://www.theteams.kr/activities/page/339623/lc",
+  "status": "다음 회차 대기",
+  "summary": "영화·다큐멘터리·애니메이션·공익광고·뉴미디어 등 장르 제한 없이 청소년이 만든 영상을 받습니다. 최근 약 1년 안에 완성한 작품만 낼 수 있습니다.",
+  "type": "영상·사진",
+  "typicalDeadline": "7월 말~9월 하순 접수(2026년 제24회: 7.28~9.22)",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

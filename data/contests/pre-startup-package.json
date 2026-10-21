@@ -1,0 +1,41 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "본인 명의 사업자등록증이 없고 법인 대표권도 없어야 합니다"
+    ],
+    "needs": [
+      "사업계획서"
+    ]
+  },
+  "eligibility": "기준일 현재 본인 명의 사업자등록이 없고 법인의 대표권도 없는 예비창업자",
+  "fields": [
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "예비창업패키지",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 회차는 2~3월 접수 예상(전년도 기준 추정)",
+  "organizer": "중소벤처기업부, 창업진흥원",
+  "prize": "사업화 자금 평균 4,000만원 내외와 창업 프로그램(2026년 300명 내외 선정)",
+  "sourceUrl": "https://www.venturesquare.net/announcement/1041449",
+  "status": "다음 회차 대기",
+  "summary": "창업 아이템 사업계획서를 K-Startup에 내면 평가를 거쳐 300명 안팎을 뽑습니다. 선정자는 8개월 협약 기간 동안 사업화 자금과 창업 프로그램을 받습니다.",
+  "type": "창업·사업화",
+  "typicalDeadline": "매년 2~3월 접수(2026년 3월 6일~26일)",
+  "typicalMonths": [
+    3
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.k-startup.go.kr",
+  "verifiedAt": "2026-10-21"
+}

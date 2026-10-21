@@ -21,7 +21,7 @@ WEEKDAYS = "월화수목금토일"
 REQUIRED = ["name", "organizer", "type", "fields", "summary", "verifiedAt", "elig"]
 ELIG_KEYS = {"who", "status", "fullTime", "uni", "regions", "nationality", "foreignNote", "age", "unemployed",
              "generalUnemployed", "employed", "fieldReq", "newStudent", "members", "manual", "needs", "unknown",
-             "limitedFor", "residence"}
+             "limitedFor", "residence", "employedOnly"}
 
 
 def load_site(root=ROOT):

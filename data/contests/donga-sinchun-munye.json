@@ -1,0 +1,44 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "신인 등단 제도라 이미 등단한 사람은 응모가 제한될 수 있으니 공고를 확인해야 합니다"
+    ],
+    "needs": [
+      "부문별 미발표 창작 원고"
+    ]
+  },
+  "eligibility": "신인 작가를 뽑는 등단 공모. 공고의 자격 문구는 확인하지 못함",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": true,
+  "name": "동아일보 신춘문예",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년도 공고 전. 2026년 11월 말 마감, 2027년 1월 1일자 발표 예상(전년도 기준 추정)",
+  "organizer": "동아일보",
+  "prize": null,
+  "sourceUrl": "https://ilovecontest.com/bbs/board.php?bo_table=contest&wr_id=4923",
+  "status": "모집예정",
+  "summary": "부문별로 미발표 창작 원고를 우편으로 받아 심사하고, 당선작을 1월 1일자 지면에 싣습니다. 1925년에 시작한 국내 첫 신춘문예입니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "매년 11월 말. 2026년도는 2025-11-28(금) 마감, 마감 당일 우편 소인 유효. 2026-01-01자 지면에 발표",
+  "typicalMonths": [
+    11
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

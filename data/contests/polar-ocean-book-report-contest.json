@@ -1,0 +1,42 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "지정도서 독후감(A4 2장 안팎 또는 손글씨)"
+    ]
+  },
+  "eligibility": "전 국민(초등부·중등부·고등부·일반부)",
+  "fields": [
+    "환경",
+    "교육"
+  ],
+  "gradOk": true,
+  "name": "극지·해양 도서 독후감 공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 제13회는 7월 중순~9월 말 접수 예상(전년도 기준 추정)",
+  "organizer": "극지해양미래포럼",
+  "prize": "부문별 대상(초등 20만원, 중·고등 30만원, 일반 50만원), 우수상·입선",
+  "sourceUrl": "https://www.theteams.kr/activities/page/337271/lc",
+  "status": "다음 회차 대기",
+  "summary": "한국해양과학기술원 '미래를 꿈꾸는 해양문고' 50권 가운데 한 권을 읽고 독후감을 써서 이메일이나 우편으로 냅니다. 참가비는 없습니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "매년 9월 말 마감(2026년 제12회: 7.15~9.30)",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://pof21.com",
+  "verifiedAt": "2026-10-21"
+}

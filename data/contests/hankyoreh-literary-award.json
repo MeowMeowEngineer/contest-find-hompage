@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "장편소설 원고(200자 원고지 800장 안팎)"
+    ]
+  },
+  "eligibility": "기성·신인 제한 없음",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": true,
+  "name": "한겨레문학상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제32회 공고 전. 2027년 3월 말 마감 예상(전년도 기준 추정)",
+  "organizer": "한겨레신문사",
+  "prize": "상금 3,000만원(제31회)",
+  "sourceUrl": "https://www.threads.com/@book.month/post/DTYAUp4jZLq",
+  "status": "다음 회차 대기",
+  "summary": "200자 원고지 800장 안팎의 미발표 장편소설을 받아 심사하고, 5월 말 한겨레 지면에 당선작을 발표합니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "매년 3월 말. 제31회(2026년)는 2026-03-31 마감, 당일 우편 소인 유효. 5월 말 발표",
+  "typicalMonths": [
+    3
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,44 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "중등",
+      "고등"
+    ],
+    "age": {
+      "max": 18,
+      "ref": "2027-12-31"
+    },
+    "manual": [
+      "외국 소재 학교 재학생은 고등부에 응시할 수 없습니다"
+    ],
+    "needs": [
+      "온라인 원서 접수",
+      "전형료(2025년 7만원)"
+    ]
+  },
+  "eligibility": "중등부·고등부. 고등부는 그해 기준 만 18세 이하(2025년: 2007.1.1 이후 출생)인 고교 미졸업자",
+  "fields": [
+    "과학기술 전반",
+    "교육"
+  ],
+  "gradOk": false,
+  "name": "한국수학올림피아드(KMO)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 1차 접수는 3~4월 예상(전년도 기준 추정)",
+  "organizer": "대한수학회",
+  "prize": null,
+  "sourceUrl": "https://www.kms.or.kr/file/fileboard/3068357271_0260b8fe_E298852025EB8584+ECA09C39ED9A8C+ED959CEAB5ADEC8898ED9599EC98ACEBA6BCED94BCEC9584EB939C+1ECB0A8EC8B9CED9798+EC9A94EAB095.pdf",
+  "status": "다음 회차 대기",
+  "summary": "5월 1차 시험으로 중등부·고등부 수상자를 가리고, 성적 우수자는 11월 2차 시험을 봅니다. 원서는 KMO 홈페이지에서 온라인으로만 받으며 2025년 전형료는 7만원이었습니다.",
+  "type": "과학·탐구 대회",
+  "typicalDeadline": "1차 원서 3월 하순~4월 중순(2025년 제39회: 3.20~4.16, 1차 시험 5.17), 2차 시험 11월",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.kmo.or.kr",
+  "verifiedAt": "2026-10-21"
+}

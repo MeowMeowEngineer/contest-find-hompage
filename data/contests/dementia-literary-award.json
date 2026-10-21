@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "중·장편소설 또는 수기(원고지 80~120매)"
+    ]
+  },
+  "eligibility": "누구나",
+  "fields": [
+    "복지·건강",
+    "문화·예술"
+  ],
+  "gradOk": true,
+  "name": "디멘시아문학상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제11회가 이미 공고됐을 수 있음(2027년 4월 말 마감 추정). 디멘시아뉴스 공지 확인",
+  "organizer": "디멘시아뉴스·디멘시아북스",
+  "prize": "상장 및 상금(금액 미확인)",
+  "sourceUrl": "https://linkareer.com/activity/259975",
+  "status": "확인필요",
+  "summary": "치매를 다룬 중·장편소설과 수기(에세이, 원고지 80~120매)를 이메일로 받아 당선작을 고릅니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "여름에 공고하고 이듬해 4월 말 마감(제10회: 2025년 7월 30일~2026년 4월 30일)",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,43 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "min": 19,
+      "max": 34
+    },
+    "needs": [
+      "정책 제안서",
+      "개인 또는 최대 3인 팀"
+    ]
+  },
+  "eligibility": "만 19~34세 청년 누구나, 개인 또는 최대 3인 팀",
+  "fields": [
+    "사회·정책"
+  ],
+  "gradOk": true,
+  "name": "2026 청년정책 공모전",
+  "nextDeadline": "2026-10-30",
+  "nextDeadlineNote": "2026년 접수 10월 7일~30일. 11~12월 심사, 12월 국민투표와 수상자 발표",
+  "organizer": "국무조정실",
+  "prize": "총상금 290만원: 대상 100만원·최우수 50만원·우수 30만원(각 국무조정실장상), 장려 10만원",
+  "sourceUrl": "https://opcl.kr/event-details/z6tKGKEBGedfapFaHyzJ/",
+  "status": "모집중",
+  "summary": "일자리·주거·교육·생활복지문화·참여권리 중 한 분야를 골라 청년 정책을 제안합니다. 부처 검토와 전문가 심사, 국민투표로 수상작을 정합니다.",
+  "type": "아이디어·특허 공모",
+  "typicalDeadline": "가을 접수(2026년 10월 7일~30일)",
+  "typicalMonths": [
+    10
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

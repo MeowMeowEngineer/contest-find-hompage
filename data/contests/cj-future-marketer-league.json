@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "일반"
+    ],
+    "manual": [
+      "대학 3학년 이상 재학생이거나 대학을 졸업한 사람이어야 합니다"
+    ],
+    "needs": [
+      "CJ 채용 사이트 지원서",
+      "단계별 마케팅 과제 결과물",
+      "결선 PT 자료"
+    ]
+  },
+  "eligibility": "마케팅에 관심 있는 대학 3학년 이상 재학생 및 기졸업자, 개인 지원(2025년 기준)",
+  "fields": [
+    "경제·금융"
+  ],
+  "gradOk": false,
+  "name": "CJ제일제당 Future Marketer League",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 회차는 9월 접수 예상(전년도 기준 추정)",
+  "organizer": "CJ제일제당",
+  "prize": "결선 PT 통과 시 CJ제일제당 마케팅 직무 최종 합격, 대상 300만원(1명) 등(2025년 기준)",
+  "sourceUrl": "https://cse.snu.ac.kr/community/notice/24225",
+  "status": "다음 회차 대기",
+  "summary": "CJ제일제당 제품 마케터 채용을 공모전 방식으로 진행합니다. 단계별 마케팅 과제를 거쳐 결선 PT를 통과하면 마케팅 직무에 최종 합격합니다.",
+  "type": "아이디어·특허 공모",
+  "typicalDeadline": "매년 9월 접수(2026년 9월 16일~30일)",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://cjleague.kr",
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등"
+    ],
+    "age": {
+      "max": 13,
+      "ref": "2027-12-31"
+    },
+    "needs": [
+      "온라인 참가 접수"
+    ]
+  },
+  "eligibility": "그해 기준 만 13세 이하(2026년: 2013.1.1 이후 출생)",
+  "fields": [
+    "과학기술 전반",
+    "교육"
+  ],
+  "gradOk": false,
+  "name": "한국주니어수학올림피아드(KJMO)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년은 6~7월 접수 예상(전년도 기준 추정)",
+  "organizer": "대한수학회",
+  "prize": null,
+  "sourceUrl": "https://linkareer.com/activity/325092",
+  "status": "다음 회차 대기",
+  "summary": "초등 고학년을 위한 수학 경시로, 초등 전 과정과 중학교 1학년 1학기 내용으로 풀 수 있는 문제를 냅니다.",
+  "type": "과학·탐구 대회",
+  "typicalDeadline": "6월 중순~7월 말 접수(2026년: 6.17~7.28)",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.kmo.or.kr",
+  "verifiedAt": "2026-10-21"
+}

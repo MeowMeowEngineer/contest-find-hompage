@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "장편소설 원고(200자 원고지 600매 이상)"
+    ]
+  },
+  "eligibility": "국적·거주지·연령·기성·신인 제한 없음",
+  "fields": [
+    "문화·예술",
+    "사회·정책"
+  ],
+  "gradOk": true,
+  "name": "제주4·3평화문학상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제15회는 한 공모 목록에 '마감 11/20'으로 올라 있지만 재단 공식 공고는 확인하지 못함",
+  "organizer": "제주4·3평화재단",
+  "prize": "장편소설 5,000만원, 수상작 단행본 발간(제14회)",
+  "sourceUrl": "https://linkareer.com/activity/277491",
+  "status": "확인필요",
+  "summary": "장편소설은 200자 원고지 600매 이상을 받아 심사합니다. 시·논픽션 부문을 함께 둔 회차도 있습니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "매년 11~12월. 제14회는 2025-12-19 오후 6시 도착분까지, 2026년 3월 발표",
+  "typicalMonths": [
+    12
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "http://www.jeju43peace.or.kr",
+  "verifiedAt": "2026-10-21"
+}

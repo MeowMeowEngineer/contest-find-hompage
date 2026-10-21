@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "일반"
+    ],
+    "manual": [
+      "성인문해교육 프로그램에 참여하는 학습자여야 합니다",
+      "소속 문해교육기관이나 시·도 평생교육기관을 통해 출품합니다"
+    ],
+    "needs": [
+      "직접 쓴 시와 그림을 담은 시화 작품"
+    ]
+  },
+  "eligibility": "전국 성인문해교육 프로그램 참여 학습자(시·도와 문해교육기관을 거쳐 출품)",
+  "fields": [
+    "교육",
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "전국 성인문해교육 시화전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제16회(2027년) 공고 전. 다니는 문해교육기관이나 시·도 평생교육진흥원 공지 확인",
+  "organizer": "교육부·국가평생교육진흥원",
+  "prize": null,
+  "sourceUrl": "https://eiec.kdi.re.kr/policy/materialView.do?num=285799",
+  "status": "확인필요",
+  "summary": "문해교육을 받은 학습자가 직접 쓴 시와 그림을 한 장에 담아 내면 전국 심사로 수상작을 고릅니다. 한 회차에 1만 7천여 명이 참여해 197명이 상을 받은 적이 있습니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "시·도 예선(예: 경기도 6월 공모) 뒤 전국 심사, 9월 '문해의 달' 앞뒤로 시상",
+  "typicalMonths": [
+    6
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

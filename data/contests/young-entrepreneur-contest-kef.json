@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "참가 신청서·사업 아이템 자료"
+    ]
+  },
+  "eligibility": "창업가 누구나(출전 자격 제한 없음)",
+  "fields": [
+    "경제·금융"
+  ],
+  "gradOk": true,
+  "name": "청년기업가대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제16회 공고 전. 2027년 4~5월 접수 예상(전년도 기준 추정)",
+  "organizer": "한국기업가정신재단",
+  "prize": "상금·투자금 총 1억 1,600만원(제15회)",
+  "sourceUrl": "https://thinkyou.co.kr/contest/62091/",
+  "status": "다음 회차 대기",
+  "summary": "창업가가 사업 아이템으로 겨뤄 상금과 투자금을 받는 대회입니다. 이름에 '청년'이 들어가지만 공고상 출전 자격 제한은 없습니다.",
+  "type": "창업·사업화",
+  "typicalDeadline": "봄. 제15회(2026)는 2026-05-06 접수 마감",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

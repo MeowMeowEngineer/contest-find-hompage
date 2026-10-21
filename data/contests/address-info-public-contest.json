@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "아이디어 제안서"
+    ]
+  },
+  "eligibility": "국민 누구나, 개인 또는 팀",
+  "fields": [
+    "사회·정책"
+  ],
+  "gradOk": true,
+  "name": "주소정보 활용 대국민 공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 공고 전. 2027년 여름 접수 예상(전년도 기준 추정)",
+  "organizer": "행정안전부",
+  "prize": "정책아이디어 부문 대상·최우수상에 행정안전부 장관상",
+  "sourceUrl": "https://www.theteams.kr/activities/page/335873/lc",
+  "status": "다음 회차 대기",
+  "summary": "도로명주소 같은 주소정보를 활용한 정책 아이디어 등을 받아 심사하고, 대국민투표를 거쳐 수상작을 정합니다.",
+  "type": "아이디어·특허 공모",
+  "typicalDeadline": "2026년은 2026-08-31 접수 마감, 10월 대국민투표, 11월 시상",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

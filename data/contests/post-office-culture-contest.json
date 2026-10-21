@@ -1,0 +1,36 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등"
+    ],
+    "needs": [
+      "그림(초등) 또는 글짓기 원고"
+    ]
+  },
+  "eligibility": "전국 초·중·고 학생(그림그리기는 초등, 글짓기는 초·중·고)",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "우체국 문화전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년은 6~8월 접수 예상(전년도 기준 추정)",
+  "organizer": "우정사업본부",
+  "prize": "대상에 과학기술정보통신부장관상과 시상금(2025년)",
+  "sourceUrl": "https://thinkyou.co.kr/mobile/contest/63986/",
+  "status": "다음 회차 대기",
+  "summary": "'우체국'과 관련된 이야기를 주제로 초등학생은 그림이나 글을, 중·고등학생은 글을 지어 냅니다. 학교급별로 나눠 심사합니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "6월~8월 중순 접수(2026년: 6.1~8.12)",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

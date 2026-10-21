@@ -1,0 +1,44 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "아이디어 부문은 공고일 기준 아직 창업하지 않은 예비창업자여야 합니다"
+    ],
+    "needs": [
+      "창업 아이디어 신청서(온라인 접수)"
+    ]
+  },
+  "eligibility": "아이디어 부문: 공고일 기준 예비창업자",
+  "fields": [
+    "환경"
+  ],
+  "gradOk": true,
+  "name": "기후에너지환경창업대전 (Eco+ Start-Up Challenge)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 공고 전. 2027년 3월 공고, 4월 접수 예상(전년도 기준 추정)",
+  "organizer": "기후에너지환경부 주최, 한국환경산업기술원 주관",
+  "prize": "아이디어·스타기업 부문을 합쳐 25팀에 총 1억 800만원",
+  "sourceUrl": "https://thinkyou.co.kr/contest/61932/",
+  "status": "다음 회차 대기",
+  "summary": "기후·에너지·환경 분야의 창업 아이디어를 내면 서류 평가, 대면 발표 평가, 최종 선정 순서로 심사합니다.",
+  "type": "창업·사업화",
+  "typicalDeadline": "매년 4~5월. 2026년은 2026-04-01~05-01 오후 6시 온라인 접수",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

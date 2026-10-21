@@ -1,0 +1,45 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등"
+    ],
+    "age": {
+      "max": 18
+    },
+    "nationality": "KR",
+    "manual": [
+      "팀 단위로 지도교사와 함께 참가해야 합니다"
+    ],
+    "needs": [
+      "참가 신청서",
+      "표현 과제 해결 계획서"
+    ]
+  },
+  "eligibility": "대한민국 국적의 초·중·고 학생 및 19세 미만 청소년(팀 단위, 지도교사와 함께 참가)",
+  "fields": [
+    "과학기술 전반",
+    "교육"
+  ],
+  "gradOk": false,
+  "name": "대한민국 학생창의력 챔피언대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년도 3~4월 접수 예상(전년도 기준 추정)",
+  "organizer": "지식재산처·한국발명진흥회",
+  "prize": null,
+  "sourceUrl": "https://newsseoul.co.kr/news/view/1065585619385810",
+  "status": "다음 회차 대기",
+  "summary": "팀을 꾸려 참가 신청서와 '표현 과제 해결 계획서'를 내고, 예선과 본선에서 주어진 과제를 현장에서 창의적으로 푸는 과정을 평가받습니다. 2025년에는 최종 50팀을 뽑았습니다.",
+  "type": "과학·탐구 대회",
+  "typicalDeadline": "매년 4월 하순 마감(2025년: 3.10~4.23)",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.ip-edu.net",
+  "verifiedAt": "2026-10-21"
+}

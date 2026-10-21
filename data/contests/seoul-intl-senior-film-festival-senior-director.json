@@ -1,0 +1,38 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "일반"
+    ],
+    "age": {
+      "min": 60
+    },
+    "nationality": "KR",
+    "needs": [
+      "직전 연도 1월 1일 이후 제작한 30분 미만 단편영화"
+    ]
+  },
+  "eligibility": "만 60세 이상 대한민국 국적 감독이 연출한 30분 미만 단편영화",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "서울국제노인영화제 노인감독 부문",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제19회(2027년) 출품 공고 전. 2026년 12월~2027년 5월 사이 마감 예상(전년도 기준 추정)",
+  "organizer": "서울국제노인영화제 사무국(서울노인복지센터)",
+  "prize": "부문별 대상 400만원, 우수상 200만원(2024년 공고 기준)",
+  "sourceUrl": "https://med.hallym.ac.kr/bbs/media/488/227864/download.do",
+  "status": "다음 회차 대기",
+  "summary": "노인감독이 만든 자유 주제 단편(직전 연도 1월 1일 이후 제작, 30분 미만)을 받아 본선 상영작과 대상·우수상을 정합니다. 수상작은 10월 영화제에서 상영합니다.",
+  "type": "영상·사진",
+  "typicalDeadline": "연말~봄 사이 접수, 회차마다 다름(2026년 제18회: 3월 20일~5월 13일). 영화제는 10월",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://seoulnoin.or.kr",
+  "verifiedAt": "2026-10-21"
+}

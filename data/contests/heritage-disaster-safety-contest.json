@@ -1,0 +1,43 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "needs": [
+      "영상·포스터·아이디어 중 해당 부문 출품작",
+      "입상작은 주최 측이 3년간 독점 사용"
+    ]
+  },
+  "eligibility": "대한민국 누구나, 개인 또는 팀(대표자 포함 3인 이내)",
+  "fields": [
+    "문화·예술",
+    "사회·정책"
+  ],
+  "gradOk": true,
+  "name": "국가유산 재난안전 공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "다음 회차 공고 전. 2026년 11월 말~12월 말 접수 예상(전년도 기준 추정)",
+  "organizer": "국가유산청",
+  "prize": null,
+  "sourceUrl": "https://thinkyou.co.kr/contest/59503/",
+  "status": "모집예정",
+  "summary": "극한기후(풍수해·산불)나 낙서·방화 같은 훼손에서 국가유산을 지키는 내용을 영상(광고·캠페인·쇼츠 등), 포스터, 아이디어로 냅니다.",
+  "type": "영상·사진",
+  "typicalDeadline": "연말. '2026' 회차는 2025-11-24~12-30 접수",
+  "typicalMonths": [
+    12
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

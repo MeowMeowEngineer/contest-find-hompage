@@ -1,0 +1,36 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등"
+    ],
+    "needs": [
+      "온라인 참가 신청"
+    ]
+  },
+  "eligibility": "초·중·고등학교 재학생 또는 이에 준하는 자",
+  "fields": [
+    "컴퓨터·SW"
+  ],
+  "gradOk": false,
+  "name": "한국정보올림피아드(KOI)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 제44회는 4월 접수, 5월 1차 대회 예상(전년도 기준 추정)",
+  "organizer": "과학기술정보통신부 주최",
+  "prize": null,
+  "sourceUrl": "https://assets.koi.or.kr/koi/2026/koi2026_announcement.pdf",
+  "status": "다음 회차 대기",
+  "summary": "1차 대회에서 알고리즘·프로그래밍 문제를 풀고, 통과자는 2차 대회에 나갑니다. 초등부·중등부·고등부로 나눠 시상합니다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "1차 대회 접수 4월 중·하순(2026년 제43회: 4.13~4.29, 추가 접수 5.5까지, 1차 대회 5.10)",
+  "typicalMonths": [
+    4
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://koi.or.kr",
+  "verifiedAt": "2026-10-21"
+}

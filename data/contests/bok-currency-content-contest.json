@@ -1,0 +1,44 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "일반"
+    ],
+    "age": {
+      "min": 15,
+      "max": 24
+    },
+    "needs": [
+      "MP4 영상(가로 25~65초 또는 세로 25~35초)",
+      "참가신청서"
+    ]
+  },
+  "eligibility": "고등학생·대학생 등 만 15~24세 청소년(접수 마감일 기준)",
+  "fields": [
+    "경제·금융"
+  ],
+  "gradOk": true,
+  "name": "한국은행 화폐사랑 콘텐츠 공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년은 6~8월 접수 예상(전년도 기준 추정)",
+  "organizer": "한국은행",
+  "prize": "총상금 1,500만원: 대상 300만원, 우수상 3명 각 200만원, 장려상 6명 각 100만원",
+  "sourceUrl": "https://www.theteams.kr/activities/page/329302/lc",
+  "status": "다음 회차 대기",
+  "summary": "위조화폐 유통방지·현금 사용 선택권 등 5개 주제 중 하나로 영상을 만들어 한국은행 홈페이지에 올립니다. 일반 영상은 25~65초 가로, 숏폼은 25~35초 세로입니다.",
+  "type": "영상·사진",
+  "typicalDeadline": "6월 중순~8월 하순 접수(2026년: 6.17~8.26)",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.bok.or.kr",
+  "verifiedAt": "2026-10-21"
+}

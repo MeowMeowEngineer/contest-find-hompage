@@ -1,0 +1,44 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등",
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "신인 등단 제도라 이미 등단한 사람은 응모가 제한될 수 있으니 공고를 확인해야 합니다"
+    ],
+    "needs": [
+      "부문별 미발표 창작 원고"
+    ]
+  },
+  "eligibility": "신인 작가를 뽑는 등단 공모. 공고의 자격 문구는 확인하지 못함",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": true,
+  "name": "한국일보 신춘문예",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년도 공고 전(전년도에는 10월 말 공고). 2026년 12월 초 마감 예상(전년도 기준 추정)",
+  "organizer": "한국일보",
+  "prize": null,
+  "sourceUrl": "https://www.hankookilbo.com/news/article/A2025102817300002997",
+  "status": "모집예정",
+  "summary": "부문별로 미발표 창작 원고를 받아 심사하고 신년호에 당선작을 싣습니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "매년 12월 초. 2026년도는 2025-12-01 접수 마감(공고는 2025-10-28 게재)",
+  "typicalMonths": [
+    12
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.hankookilbo.com/news/article/A2025102817300002997",
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "초등",
+      "중등",
+      "고등"
+    ],
+    "nationality": "KR",
+    "needs": [
+      "SW·AI 작품과 설명 자료",
+      "해커톤은 중·고등부만"
+    ]
+  },
+  "eligibility": "SW공모전 초·중·고등부, 해커톤 중·고등부, 대한민국 국적 청소년",
+  "fields": [
+    "컴퓨터·SW",
+    "AI·데이터"
+  ],
+  "gradOk": false,
+  "name": "한국코드페어",
+  "nextDeadline": null,
+  "nextDeadlineNote": "다음 회차는 7~8월 접수, 10월 본선 예상(전년도 기준 추정)",
+  "organizer": "과학기술정보통신부 주최, 한국지능정보사회진흥원(NIA) 주관",
+  "prize": "2025년 제7회: SW공모전 초·중·고 각 10팀 수상, 해커톤 본선 30팀",
+  "sourceUrl": "https://newsseoul.co.kr/news/view/1065611423108917",
+  "status": "확인필요",
+  "summary": "SW공모전은 SW·AI 작품을 만들어 내면 예선과 본선 심사로 수상작을 정합니다. 해커톤은 본선 당일 공개된 주제를 제한 시간 안에 코딩으로 해결합니다.",
+  "type": "설계·개발 경진",
+  "typicalDeadline": "여름 접수 후 8월 예선 심사, 10월 본선(2024년 해커톤 접수 마감 8.16)",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://kcf.or.kr",
+  "verifiedAt": "2026-10-21"
+}

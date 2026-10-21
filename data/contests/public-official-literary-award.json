@@ -1,0 +1,37 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "일반"
+    ],
+    "manual": [
+      "현직 또는 퇴직 공무원만 응모할 수 있습니다"
+    ],
+    "needs": [
+      "8개 부문 중 고른 부문의 원고"
+    ]
+  },
+  "eligibility": "현직 및 퇴직 공무원",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "공무원예술대전 공직문학상",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 요강 공고 전. 2027년 7~9월 접수 예상(전년도 기준 추정)",
+  "organizer": "인사혁신처 주최, 공무원연금공단 주관",
+  "prize": null,
+  "sourceUrl": "https://www.mpm.go.kr/mpm/info/retireAnnuity/officialArt",
+  "status": "다음 회차 대기",
+  "summary": "시, 시조, 수필, 단편소설·희곡, 동시, 동화, 공직윤리, 공직공감 8개 부문 작품을 받아 심사한 뒤 입상작을 발표합니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "매년 7~9월 작품 접수와 심사, 10~11월 입상작 발표와 전시",
+  "typicalMonths": [
+    9
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.mpm.go.kr/mpm/info/retireAnnuity/officialArt/officialArtHome",
+  "verifiedAt": "2026-10-21"
+}

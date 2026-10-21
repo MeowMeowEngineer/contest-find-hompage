@@ -1,0 +1,44 @@
+{
+  "confidence": "high",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "age": {
+      "max": 39
+    },
+    "manual": [
+      "창업 후 3년 이내 대표자여야 합니다(경험창업자는 7년 이내)"
+    ],
+    "needs": [
+      "사업계획서"
+    ]
+  },
+  "eligibility": "만 39세 이하, 창업 3년 이내 기업 대표자(경험창업자는 창업 7년 이내까지). 예비창업자 지원 여부는 운영기관 공고별 확인",
+  "fields": [
+    "과학기술 전반"
+  ],
+  "gradOk": true,
+  "name": "청년창업사관학교(창업성공패키지) 입교생 모집",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 입교생 모집은 2027년 1~2월 예상(전년도 기준 추정)",
+  "organizer": "중소벤처기업부, 중소벤처기업진흥공단",
+  "prize": null,
+  "sourceUrl": "https://www.venturesquare.net/announcement/1036164",
+  "status": "다음 회차 대기",
+  "summary": "사업계획서를 온라인으로 내면 평가를 거쳐 입교생을 뽑고, 입교생은 사업화 지원과 교육·코칭을 받습니다.",
+  "type": "창업·사업화",
+  "typicalDeadline": "매년 1~2월 본 모집(2026년 1월 30일~2월 13일 16시). 지역·운영기관별 추가 모집도 있음",
+  "typicalMonths": [
+    2
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.k-startup.go.kr",
+  "verifiedAt": "2026-10-21"
+}

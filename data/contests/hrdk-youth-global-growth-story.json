@@ -1,0 +1,41 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "manual": [
+      "최근 5년 이내 해외진출(취업 등) 경험이 있거나 귀국 후 국내에 재취업한 사람이어야 합니다"
+    ],
+    "needs": [
+      "수기 원고 또는 영상"
+    ]
+  },
+  "eligibility": "최근 5년 이내 해외진출 경험자 또는 귀국 후 국내 재취업자",
+  "fields": [
+    "사회·정책"
+  ],
+  "gradOk": true,
+  "name": "청년 글로벌 성장스토리 공모전(해외취업 수기·영상)",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 회차는 6~8월 접수 예상(전년도 기준 추정)",
+  "organizer": "한국산업인력공단(월드잡플러스)",
+  "prize": "28작품, 총상금 2,040만원(2026년)",
+  "sourceUrl": "https://superookie.com/activities/6a5ddc89e2d57c5cbc16bca2",
+  "status": "다음 회차 대기",
+  "summary": "해외취업·해외진출 경험이나 귀국 후 재취업 이야기를 수기 또는 영상으로 만들어 월드잡플러스에 내면 심사해 28작품을 시상합니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "여름 접수(2026년 6월 17일~8월 21일)",
+  "typicalMonths": [
+    8
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.worldjob.or.kr",
+  "verifiedAt": "2026-10-21"
+}

@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "일반"
+    ],
+    "age": {
+      "min": 65,
+      "ref": "2026-12-31"
+    },
+    "manual": [
+      "등단 10년 이상 문인은 응모할 수 없습니다"
+    ],
+    "needs": [
+      "시(시조) 또는 수필 원고",
+      "이메일 제출"
+    ]
+  },
+  "eligibility": "만 65세 이상(1961년 12월 31일 이전 출생) 전국 시니어, 등단 10년 이상 문인은 응모 불가",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "강원일보 시니어문학상",
+  "nextDeadline": "2026-11-12",
+  "nextDeadlineNote": "2026년 공모 진행 중. 11월 12일 자정까지 이메일로만 받음",
+  "organizer": "강원일보",
+  "prize": null,
+  "sourceUrl": "https://www.kwnews.co.kr/article/20261014500254",
+  "status": "모집중",
+  "summary": "시(시조)와 수필 두 부문으로 작품을 이메일로 받아 심사합니다. 2026년부터 응모 대상을 전국 시니어로 넓혔습니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "2026년 회차: 10월 중순 공고, 11월 12일 자정 마감(이메일 접수)",
+  "typicalMonths": [
+    11
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.kwnews.co.kr/article/20261014500254",
+  "verifiedAt": "2026-10-21"
+}

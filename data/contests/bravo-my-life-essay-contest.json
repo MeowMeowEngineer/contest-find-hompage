@@ -1,0 +1,39 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "일반"
+    ],
+    "age": {
+      "min": 50
+    },
+    "needs": [
+      "수기 원고",
+      "이메일 제출"
+    ]
+  },
+  "eligibility": "만 50세 이상 누구나",
+  "fields": [
+    "사회·정책",
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "브라보 마이 라이프 수기 공모전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "제3회는 공고 전. 2026년 12월 공고, 2027년 1월 말 마감 예상(전년도 기준 추정)",
+  "organizer": "브라보 마이 라이프(이투데이 중장년 매거진)",
+  "prize": "브라보상 500만원, 감동상·희망상 각 200만원, 행복상 10편 각 10만원(제2회)",
+  "sourceUrl": "https://thinkyou.co.kr/contest/60048/",
+  "status": "모집예정",
+  "summary": "50대 이상이 자기 삶을 쓴 수기를 받아 브라보상·감동상·희망상·행복상을 가립니다. 제2회에는 약 380편이 들어와 22편이 상을 받았습니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "12월 초 공고, 1월 말 마감(제2회: 2025년 12월 5일~2026년 1월 30일)",
+  "typicalMonths": [
+    1
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://bravo.etoday.co.kr/",
+  "verifiedAt": "2026-10-21"
+}

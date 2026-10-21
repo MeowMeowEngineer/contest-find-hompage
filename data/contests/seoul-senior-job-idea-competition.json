@@ -1,0 +1,42 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "학부",
+      "석사",
+      "박사",
+      "박사후",
+      "일반"
+    ],
+    "residence": [
+      "서울"
+    ],
+    "needs": [
+      "시니어 일자리 사업 아이디어 제안서"
+    ]
+  },
+  "eligibility": "서울시민 개인(나이 제한 없음) 또는 서울 소재 기업·단체",
+  "fields": [
+    "사회·정책",
+    "복지·건강"
+  ],
+  "gradOk": true,
+  "name": "서울 시니어 일자리 경진대회",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 공고 전. 다음 회차 형식 확인 필요",
+  "organizer": "서울시·서울시50플러스재단",
+  "prize": "5개 팀 선정, 총 4,000만원 규모 시범사업 지원, 서울특별시장상 등(2026년)",
+  "sourceUrl": "https://www.theteams.kr/activities/page/331418/lc",
+  "status": "다음 회차 대기",
+  "summary": "60세 이상 시니어가 다시 일할 수 있는 새 일자리 모델을 제안하면 서면 심사로 팀을 뽑고, 뽑힌 팀이 시범사업을 운영한 뒤 성과공유회 심사로 최종 순위를 정합니다.",
+  "type": "아이디어·특허 공모",
+  "typicalDeadline": "7월 초 마감(2026년: 6월 24일~7월 8일). 해마다 진행 방식이 바뀜",
+  "typicalMonths": [
+    7
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": "https://www.50plus.or.kr",
+  "verifiedAt": "2026-10-21"
+}

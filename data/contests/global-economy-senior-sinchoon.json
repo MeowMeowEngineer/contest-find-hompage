@@ -1,0 +1,40 @@
+{
+  "confidence": "medium",
+  "createdAt": "2026-10-21T15:00:00+09:00",
+  "cycle": "연 1회",
+  "elig": {
+    "who": [
+      "일반"
+    ],
+    "age": {
+      "min": 50
+    },
+    "manual": [
+      "이미 등단한 문인은 응모할 수 없습니다"
+    ],
+    "needs": [
+      "시·단편소설·동화·수필 중 응모 부문 원고(타이핑)"
+    ]
+  },
+  "eligibility": "50세 이상 아마추어 문인 누구나(기등단 문인 제외)",
+  "fields": [
+    "문화·예술"
+  ],
+  "gradOk": false,
+  "name": "글로벌경제 시니어 신춘문예 대전",
+  "nextDeadline": null,
+  "nextDeadlineNote": "2027년 회차는 공고 전. 2027년 5월 중순 마감 예상(전년도 기준 추정)",
+  "organizer": "글로벌경제신문",
+  "prize": "대상 200만원과 문화체육관광부 장관상, 부문별 당선작 50만원(2024·2025년 기준)",
+  "sourceUrl": "https://ilovecontest.com/curation/4",
+  "status": "다음 회차 대기",
+  "summary": "시, 단편소설, 동화, 수필 4개 부문에서 주제 제한 없이 작품을 받아 부문별 당선작과 전체 대상을 고릅니다. 손으로 쓴 원고는 받지 않습니다.",
+  "type": "문학·수기",
+  "typicalDeadline": "매년 5월 중하순 마감(2025년 5월 23일, 2026년 5월 15일)",
+  "typicalMonths": [
+    5
+  ],
+  "updatedAt": "2026-10-21T15:00:00+09:00",
+  "url": null,
+  "verifiedAt": "2026-10-21"
+}

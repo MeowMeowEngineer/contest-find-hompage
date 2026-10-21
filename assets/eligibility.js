@@ -207,6 +207,7 @@
     if (e.unemployed && employed) fail.push("미취업자만 참가할 수 있습니다");
     if (e.generalUnemployed && !uni && employed) fail.push("학생이 아니면 취업준비생만 참가할 수 있습니다");
     if (e.employed && employed && uni) fail.push(e.employed);
+    if (e.employedOnly && !employed) fail.push("재직 중인 사람만 참가할 수 있습니다");
 
     (e.manual || []).forEach(function (m) { cond.push(m); });
 
